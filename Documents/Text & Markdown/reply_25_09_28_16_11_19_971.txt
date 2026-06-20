@@ -1,0 +1,117 @@
+Here is the complete text of the reply you sent to the Insurance Ombudsman, formatted exactly as a plain text document with the data structured point-by-point to meet the requirements of the government department letter (Annexure VI-A).
+
+***
+
+TO,
+THE INSURANCE OMBUDSMAN,
+4TH FLOOR, BHAGWAN SAHAI PALACE,
+MAIN ROAD, NAYA BANS,
+GAUTAM BUDDH NAGAR SECTOR 15,
+NOIDA – 201301
+
+***
+
+### ANNEX-VI-A: COMPLAINT DETAILS
+
+**Re: Complaint against:** ACKO GENERAL INSURANCE CO. LTD (Bangalore)
+**Branch/Division:** Bangalore
+**Policy No.:** ASHP202400001607
+**Complaint No.:** NOI-H-056-2526-0961
+
+---
+
+### 1. COMPLAINANT'S FULL NAME AND ADDRESS
+| FIELD | DETAIL |
+| :--- | :--- |
+| **NAME** | MR. VIKAS GANDHI |
+| **ADDRESS** | D-20, 1st FLOOR, DAYANAND NAGAR, Ghaziabad, Uttar Pradesh-201001 |
+| **TELEPHONE NO. (LANDLINE)** | 01204142233 |
+| **MOBILE NO.** | 9911198000 |
+| **EMAIL** | 9amdeal@gmail.com |
+| **RELATIONSHIP TO THE INSURED PERSON** | SELF |
+
+---
+
+### 2. NAME OF THE INSURANCE CO.
+| FIELD | DETAIL |
+| :--- | :--- |
+| **NAME OF THE INSURANCE CO.** | ACKO GENERAL INSURANCE CO. LTD (Bangalore) |
+| **OFFICE ADDRESS** | $36/5$ Hustlehub One East, Somasandrapalya, 27th Main Road, Sector 2, HSR Layout, Bengaluru 560 102 |
+| **DIVISION/BRANCH** | Bangalore |
+
+---
+
+### 3. POLICY NUMBER
+| FIELD | DETAIL |
+| :--- | :--- |
+| **POLICY NUMBER** | ASHP202400001607 |
+
+---
+
+### 4. SUBJECT MATTER OF COMPLAINT AND BRIEF DETAILS OF THE CASE
+The complaint is against the wrongful rejection of Health Claim No. 25062100350/1, citing the non-applicable **2-year waiting period for 'Specific Illnesses' (Clause 4.1.2)**.
+* [cite_start]**Diagnosis and Procedure:** Circumcision + Meatoplasty for Tight Phimosis with Balanitis with Meatal Stenosis[cite: 752, 774].
+* **Medical Necessity:** It was an acute, painful, and emergent condition causing urinary obstruction; [cite_start]**not cosmetic or elective**[cite: 915, 916, 943, 2269].
+* [cite_start]**Biopsy Confirmation:** Biopsy confirmed **Lichen Sclerosus (Balanitis Xerotica Obliterans)**, explicitly ruling out malignancy[cite: 656, 660, 2270, 2987].
+* [cite_start]**Insurer's Error:** ACKO wrongly applied a broad exclusion intended for non-acute, listed conditions[cite: 2271].
+
+---
+
+### 5. DATE OF PREFERRING YOUR CLAIM/COMPLAINT TO THE OFFICE
+| FIELD | DETAIL |
+| :--- | :--- |
+| **INITIAL CLAIM LODGED WITH ACKO** | [cite_start]**24 JUNE 2025** [cite: 1199, 1227, 2362, 2336, 2272] |
+
+---
+
+### 6. DATE OF REPLY OF INSURANCE COMPANY
+| FIELD | DETAIL |
+| :--- | :--- |
+| **DATE OF FINAL REJECTION/REPLY** | [cite_start]**2 JULY 2025** [cite: 568, 1673, 1731, 2811, 2272] |
+
+---
+
+### 7. ARE ANY PROCEEDINGS BEFORE ANY COURT/CONSUMER FORUM/ARBITRATOR ON THE SAME SUBJECT MATTER PENDING OR WERE SO EARLIER:
+**NONE**
+
+---
+
+### 8. NATURE AND EXTENT OF MONETARY LOSS, IF ANY, (INCASE OF GENERAL INSURANCE CASES ONLY):
+[cite_start]**₹37,358** [cite: 946, 2272]
+
+---
+
+### 9. QUANTUM OF RELIEF SOUGHT:
+* [cite_start]**₹37,358** (Claim amount reimbursement)[cite: 946].
+* [cite_start]**₹10,000** (Compensation for mental agony)[cite: 947, 2272].
+
+---
+
+### 10. (A) PARTICULARS OF REPRESENTATION MADE AGAINST REPUDIATION OF CLAIM TO DO/RO/ZO/GRIEVANCE CELL OF INSURER AND OUTCOME THEREOF:
+[cite_start]Representations were made at all escalation levels (Grievance Cell to CGO) but ACKO gave the final rejection on **2 July 2025**[cite: 568, 571, 1673, 1676, 2811, 2814, 2272].
+
+### 10. (B) IF NOT MADE REPRESENTATION GIVE REASONS, IF ANY:
+N/A
+
+---
+
+### 11. I HEREBY DECLARE AND SOLEMNLY AFFIRM THAT
+* **(A)** THE INFORMATION GIVEN ABOVE IS TRUE TO THE BEST OF MY KNOWLEDGE AND BELIEF.
+* **(B) THE COMPLAINT WAS LODGED WITH THE INSURANCE COMPANY ON** 24 JUNE 2025 **AS PER COPY ENCLOSED AND THE COMPANY HAS REJECTED MY CLAIM/ COMPLAINT/ NOT REPLIED EVEN AFTER A MONTH/REPLIED ON** 2 JULY 2025 **BUT THE SAME IS NOT ACCEPTABLE TO ME.**
+* **(C)** THE PERIOD OF ONE YEAR HAS NOT ELAPSED FROM THE DATE OF REJECTION LETTER OR FINAL FROM THE INSURANCE COMPANY.
+* **(D)** THE COMPLAINT IS NOT ON THE SAME SUBJECT MATTER FOR WHICH ANY PROCEEDINGS BEFORE ANY COURT OR CONSUMER FORUM OR ARBITRATOR ARE PENDING/SETTLED OR WERE SO EARLIER.
+* **(E)** THE SUBJECT MATTER IS NOT DECIDED EARLIER BY YOUR OFFICE OR ANY OFFICE OF THE INSURANCE OMBUDSMAN.
+
+---
+
+### 12. POLICY PORTABILITY DETAILS
+* [cite_start]**WHETHER YOUR POLICY IS FRESH OR PORTED:** **FRESH POLICY**[cite: 974, 3101, 2272].
+* **IF YES THEN PROVIDE DETAILS AS BELOW:** N/A
+
+***
+
+### UNCONDITIONAL CONSENT
+
+[cite_start]I hereby give my unconditional and irrevocable consent for the Insurance Ombudsman to act as a mediator, between the Insurance Company and myself and give his recommendations for the resolution of the complaint[cite: 2272, 3421].
+
+[cite_start]I also give my consent for Audio and/or Video Hearing[cite: 2273, 3423].
