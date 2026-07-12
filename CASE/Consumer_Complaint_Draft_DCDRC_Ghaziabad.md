@@ -9,7 +9,7 @@
 **IN THE MATTER OF:**
 
 **Mr. Vikas Gandhi**
-S/o ____________, Aged about 53 years,
+Aged about 53 years,
 R/o D-20, 1st Floor, Dayanand Nagar,
 Ghaziabad, Uttar Pradesh – 201001
 Mobile: 9911198000 | Email: 9amdeal@gmail.com
@@ -23,153 +23,191 @@ Through its Managing Director / Authorised Signatory
 Regd. Office: 2nd Floor, 36/5 Hustle Hub One East,
 Somasandrapalya, 27th Main Road, Sector 2, HSR Layout,
 Bengaluru, Karnataka – 560102
-Email: gro@acko.com
-(IRDAI Reg. No. 157)
+Email: gro@acko.com | IRDAI Reg. No. 157
 
 …**OPPOSITE PARTY**
 
 ---
 
-## COMPLAINT UNDER SECTION 35 OF THE CONSUMER PROTECTION ACT, 2019 FOR DEFICIENCY IN SERVICE AND UNFAIR TRADE PRACTICE
+## COMPLAINT UNDER SECTION 35 OF THE CONSUMER PROTECTION ACT, 2019 FOR ARBITRARY REPUDIATION OF A MEDICALLY NECESSARY HEALTH CLAIM, DEFICIENCY IN SERVICE AND UNFAIR TRADE PRACTICE
 
 **MOST RESPECTFULLY SHOWETH:**
 
-## I. PARTIES
+The present complaint arises out of the repudiation of a fully documented hospitalization claim of ₹37,358/- despite **uncontroverted medical evidence** — the hospital record of acute urinary obstruction with active infection, an urgent surgery performed by a super-specialist Urologist, a biopsy confirming a premalignant disease, and the treating specialist's written certification — none of which the Opposite Party has ever examined, answered or rebutted. Every material assertion in this complaint is supported by a document annexed hereto.
 
-1. The Complainant is a "consumer" within the meaning of Section 2(7) of the Consumer Protection Act, 2019, having purchased a health insurance policy from the Opposite Party for consideration for personal use.
+---
 
-2. The Opposite Party is a general insurance company registered with IRDAI (Reg. No. 157), engaged in the business of providing insurance services for consideration.
+## CHAPTER I — PARTIES
 
-## II. JURISDICTION
+1. The Complainant is a "consumer" within the meaning of Section 2(7) of the Consumer Protection Act, 2019, having purchased a health insurance policy from the Opposite Party for consideration for personal/family use.
 
-3. **Territorial Jurisdiction:** The Complainant resides and personally works for gain at Ghaziabad, and the hospitalization and treatment giving rise to the claim took place at RS Maitri Health Care, J-278, Patel Nagar 1st, Ghaziabad. This Hon'ble Commission therefore has territorial jurisdiction under Section 34(2)(d) of the Consumer Protection Act, 2019.
+2. The Opposite Party is a general insurance company registered with IRDAI (Reg. No. 157), rendering insurance services for consideration.
 
-4. **Pecuniary Jurisdiction:** The value of the claim and compensation sought is far below the pecuniary limit of the District Commission. This Hon'ble Commission has pecuniary jurisdiction.
+## CHAPTER II — JURISDICTION AND LIMITATION
 
-5. **Limitation:** The claim was repudiated on 26.06.2025. The Complainant thereafter pursued the insurer's internal grievance mechanism and the Insurance Ombudsman, Noida, whose award was pronounced on 02.07.2026. The present complaint is filed within two years of the cause of action and is well within limitation under Section 69 of the Act. The forwarding letter (Annexure XIII-A) dated 02.07.2026 of the Office of the Insurance Ombudsman itself records:
+3. **Territorial:** The Complainant resides at Ghaziabad and the entire hospitalization and treatment took place at RS Maitri Health Care, J-278, Patel Nagar 1st, Ghaziabad. This Hon'ble Commission has territorial jurisdiction under Section 34(2)(d) of the Act.
+
+4. **Pecuniary:** The claim and compensation sought are well within the pecuniary limits of the District Commission.
+
+5. **Limitation:** The claim was repudiated on 26.06.2025; the Complainant thereafter pursued the insurer's grievance mechanism and the Insurance Ombudsman, whose Award was pronounced on 02.07.2026. The complaint is within two years of the cause of action (Section 69). The Ombudsman's own forwarding letter dated 02.07.2026 (Annex-XIII-A) records, verbatim:
 
    > *"In the eventuality of your disagreeing with the enclosed award, you may, move a fresh application at any other forum/court that may be considered by you as appropriate."*
 
-## III. THE POLICY
+## CHAPTER III — CHRONOLOGY OF EVENTS
 
-6. The Complainant purchased the **ACKO Personal Health Policy (Standard Plan, Family Floater)** bearing **Policy No. ASHP202400001607**, valid from **04.11.2024 to 03.11.2025**, for a Sum Insured of **₹10,00,000/-**, on an annual premium of **₹31,065/-** payable monthly. The date of commencement of the first policy is 04.11.2024. The policy was continuously in force, without break, and all instalments were paid on time; the policy was fully active on the date of hospitalization.
-   *(Policy Schedule – **Annexure C-1**)*
+| Date | Event | Supporting Document |
+|---|---|---|
+| 04.11.2024 | Proposal accepted after underwriting; ACKO Personal Health Policy (Standard Plan, Family Floater) No. ASHP202400001607 issued; Sum Insured ₹10,00,000; premium ₹31,065 p.a.; policy period 04.11.2024–03.11.2025 | Annexure C-1 (Policy Schedule); Annexure C-2 (Proposal Form) |
+| Nov 2024 – Jun 2025 | All premium instalments paid on time; policy continuously in force without break | Annexure C-3 (payment records) |
+| June 2025 | Complainant develops acute urinary complaints — poor flow of urine with infection | Annexure C-4 (Discharge Summary) |
+| 20.06.2025 | Admitted to RS Maitri Health Care, Ghaziabad at 06:58 hrs; **Circumcision + Meatoplasty performed the same day** under spinal anaesthesia by Dr. Vaibhav Saxena, M.Ch. (Urology); IV fluids and IV antibiotics administered; excised tissue sent for histopathology | Annexure C-4 |
+| 21.06.2025 | Discharged in stable condition; total hospital expenses ₹37,358/- | Annexure C-4; Annexure C-5 (Bills) |
+| 21/24.06.2025 | Reimbursement Claim No. 25062100350/1 lodged with all documents; detailed representation sent | Annexure C-6 |
+| 25.06.2025 | Grievance Redressal Officer rejects the representation in mechanical terms | Annexure C-7 |
+| 26.06.2025 | **Claim repudiated** by email citing only the general "Specific Illnesses" waiting-period clause, without naming any listed condition and without dealing with the exception contained in it | Annexure C-8 |
+| 30.06.2025 | **Histopathology Report** (Max Lab, No. V-6630/25): gross "cauliflower like lesion 3.5 × 3 × 0.8 cm"; Impression: "Consistent with Lichen sclerosus (balanitis xerotica obliterans)" | Annexure C-9 |
+| Jul–Aug 2025 | Appeals and grievances to the Opposite Party — all rejected without dealing with the medical evidence | Annexure C-10 (colly.) |
+| 07.08.2025 | Complaint filed before Insurance Ombudsman, Noida (NOI-H-056-2526-0961) | Annexure C-11 |
+| 24.06.2026 | Personal hearing before the Ombudsman | Annexure C-11 |
+| 02.07.2026 | Ombudsman Award IO/NOI/A/HI/0061/2026-2027: complaint dismissed, **but medical necessity held undisputed and Permanent Exclusion held inapplicable**; liberty to approach any other forum | Annexure C-11; Annex-XIII-A letter |
+| July 2026 | Treating Urologist issues certificate on BXO being premalignant and surgery being necessitated by its malignant potential | Annexure C-12 |
 
-7. The Policy Schedule, under **"Additional conditions"**, prescribes the following waiting periods for the Complainant, verbatim:
+## CHAPTER IV — THE MEDICAL FACTS: AN ACUTE ILLNESS AND A MEDICALLY UNAVOIDABLE SURGERY
 
-   > **VIKAS GANDHI** — Initial waiting period: **30 days**;
-   > PED waiting period: **3 years – Pre-Existing Diseases**;
-   > Permanent disease exclusion: **No exclusion**;
-   > Specific illness: **"2 years waiting period on specific illness — NOTE: Refer Annexure for the complete disease list."**
-
-8. The Annexure to the Policy ("Specific illness") lists the conditions subject to the 2-year waiting period. The only entry relied upon by the Opposite Party reads, verbatim:
-
-   > **"Any Surgery of the genitourinary system *unless necessitated by malignancy*."**
-
-   It is emphasised at the outset that this entry itself contains a built-in **exception** — surgery "necessitated by malignancy" is expressly outside the waiting period.
-
-## IV. THE ILLNESS, HOSPITALIZATION AND TREATMENT
-
-9. In June 2025 — more than seven months into the policy and well beyond the 30-day initial waiting period — the Complainant developed acute urinary complaints. He was admitted to **RS Maitri Health Care, Ghaziabad** on **20.06.2025** and discharged on **21.06.2025**. The Discharge Summary (**Annexure C-2**) records, verbatim:
+6. In June 2025 — more than seven months into the policy — the Complainant developed **acute obstruction to the passage of urine**. The Discharge Summary of RS Maitri Health Care (Annexure C-4) records, verbatim:
 
    > **Diagnosis:** "TIGHT PHIMOSIS WITH BALANITIS WITH MEATAL STENOSIS"
    > **Brief history of presenting illness:** "POOR FLOW OF URINE"
    > **Procedure:** "CIRCUMCISION + MEATOPLASTY DONE UNDER SA ON 20/06/2025"
    > **Course during hospitalization:** "IV FLUIDS AND IV ANTIBIOTICS"
 
-   The treating consultant is **Dr. Vaibhav Saxena, M.B.B.S., M.S., M.Ch. (Urology)**, a super-specialist Urologist.
+7. These four entries of the hospital's own contemporaneous record establish, without any need for argument: (i) acute urinary obstruction; (ii) **active infection** — balanitis, treated with intravenous antibiotics; (iii) surgery performed **on the very day of admission**, which is possible only where surgery is medically unavoidable; and (iv) treatment by a qualified surgical team under anaesthesia in a hospital setting.
 
-10. The condition was **acute in onset and not pre-existing**: the diagnosis does not figure in any proposal-stage declaration, there is no prior history of symptoms or treatment, and the Opposite Party has never invoked the Pre-Existing Disease clause. The Complainant had developed obstruction to the passage of urine with active infection (balanitis, treated with IV antibiotics); surgery was medically unavoidable and was performed on an urgent basis on the day of admission itself.
+8. The excised preputial tissue was sent for histopathological examination — a step which was **clinically indicated**, because the Histopathology Report of Max Lab dated 30.06.2025, No. V-6630/25 (Annexure C-9), records in its Gross Description, verbatim:
 
-11. The excised tissue was sent for histopathological examination. The **Histopathology Report of Max Lab dated 30.06.2025 (Histopathology No. V-6630/25)** (**Annexure C-3**) records, verbatim:
+   > *"Externally shows **cauliflower like lesion** measures 3.5 x 3 x 0.8 cm."*
 
-    > **Gross Description:** "Externally shows **cauliflower like lesion** measures 3.5 x 3 x 0.8 cm."
-    > **Impression – Prepuce of glans:** "**Consistent with Lichen sclerosus (balanitis xerotica obliterans).**"
+   A "cauliflower-like" growth is a morphology that any competent surgeon is duty-bound to have examined for malignancy.
 
-    The gross morphology (a "cauliflower like lesion") was itself clinically suspicious, warranting biopsy to rule out malignancy; and the biopsy confirmed **Balanitis Xerotica Obliterans ("BXO") / Lichen Sclerosus**, a medically recognised **premalignant condition** of the penis.
+9. The Report's Impression reads, verbatim:
 
-12. The treating Urologist has **specifically certified** (**Annexure C-4**) that:
-    (a) the biopsy confirmed BXO / Lichen Sclerosus;
-    (b) BXO is a recognised **premalignant condition** carrying a known risk of progression to **penile carcinoma**;
-    (c) the surgery was **medically necessary and urgent**, indicated both for treatment and for **prevention of malignant transformation**, and was neither elective nor cosmetic; and
-    (d) the condition was acute and **not pre-existing**.
+   > **"Consistent with Lichen sclerosus (balanitis xerotica obliterans)."**
 
-13. The Complainant incurred total hospitalization expenses of **₹37,358/-** (hospital bills with break-up of charges — **Annexure C-5**) and duly lodged reimbursement **Claim No. 25062100350/1** with the Opposite Party along with all documents.
+   The biopsy thus **confirmed BXO (Balanitis Xerotica Obliterans / Lichen Sclerosus)** — a recognised premalignant condition of the penis, as certified by the treating specialist (Chapter V below) and as recorded in standard medical literature (Annexure C-13).
 
-## V. THE REPUDIATION
+10. The medical sequence is therefore complete and entirely documentary: acute urinary obstruction → recorded poor urinary flow → active infection requiring IV antibiotics → medically unavoidable urgent surgery → clinically indicated biopsy → biopsy-confirmed BXO. Not one link in this chain rests on the Complainant's say-so; every link is a hospital or laboratory record.
 
-14. By email dated **26.06.2025** (**Annexure C-6**), the Opposite Party repudiated the claim, stating verbatim:
+## CHAPTER V — OPINION OF THE TREATING SUPER-SPECIALIST
+
+11. The treating surgeon and certifying specialist is **Dr. Vaibhav Saxena, M.B.B.S., M.S., M.Ch. (Urology – AIIMS, New Delhi)**, who is:
+
+    • Director – Urology;
+    • Director – Uro-Oncology (Cancer);
+    • Renal Transplant Specialist; and
+    • **the treating surgeon himself**, who operated upon the Complainant and followed up the histopathology.
+
+12. This is not the opinion of an ordinary physician rendered on paper review. It is the certification of a **super-specialist in urological cancer who personally examined, operated upon and followed up the patient**. His certificate (Annexure C-12) certifies that:
+
+    (a) the biopsy confirmed **BXO / Lichen Sclerosus**;
+    (b) BXO is a **recognised premalignant condition** carrying a known risk of progression to **penile carcinoma**;
+    (c) the surgery was **medically necessary and urgent**, indicated both for treatment and for **prevention of malignant transformation**, and was neither elective nor cosmetic;
+    (d) delay in surgery exposed the patient to the risk of **life-threatening infection** and of **penile cancer**; and
+    (e) the condition was **acute in onset and not pre-existing**.
+
+13. It is respectfully submitted that the opinion of the treating super-specialist carries the **highest evidentiary value** in a medical-claim dispute. The Opposite Party has never produced — at the claim stage, the grievance stage, or before the Ombudsman — **any contrary opinion of any doctor whatsoever**, let alone of an equally qualified uro-oncologist. An insurer cannot arbitrarily discard the unrebutted opinion of the treating specialist on the basis of a desk assessment by unnamed, unqualified claim processors.
+
+## CHAPTER VI — THE PROPOSAL FORM: NO SUPPRESSION, NO PRE-EXISTING DISEASE
+
+14. The Proposal Form (Annexure C-2) — the Opposite Party's own document, on the basis of which it underwrote and accepted the risk — records, verbatim:
+
+    > "Has anyone in this plan been diagnosed with a medical condition?" — **"No medical conditions"**
+    > "Did anyone in this plan take any prescribed medicines in the past week?" — **"No"**
+    > "Has anyone in this plan been advised to undergo or has ever undergone hospitalisation for any illness / surgery?" — **"no"**
+    > "Does anyone in this plan have any other ongoing health issues or symptoms for which you are planning a doctor visit?" — **"No"**
+    > "PED declared" — **"Obesity"**
+
+15. Thus: the **only** condition declared was obesity; there was no previous medical condition, no ongoing symptom, no previous surgery and no previous hospitalization. The Opposite Party accepted this proposal **after underwriting** and issued the policy recording, in its own Schedule (Annexure C-1), **"Permanent disease exclusion: No exclusion."**
+
+16. It is of decisive significance that the Opposite Party has **never** alleged suppression of material facts, has **never** invoked the Pre-Existing Disease clause, and has **never** questioned the genuineness of the illness or of the treatment. Any suggestion that the disease existed prior to policy inception therefore stands completely demolished by the insurer's own record and its own conduct.
+
+## CHAPTER VII — THE REPUDIATION: MECHANICAL, NON-SPEAKING AND ARBITRARY
+
+17. The entire repudiation email dated 26.06.2025 (Annexure C-8), insofar as it gives reasons, states verbatim:
 
     > *"After carefully reviewing your claim, we noticed that you have filed a claim for the expenses incurred for treatment of a condition falling under waiting period. Unfortunately, these costs are not a part of your insurance coverage. As a result, we are unable to approve your claim."*
 
-    The letter extracted only the general clause **4.1.2 (Specific Illnesses)** and did **not** identify which listed condition was said to apply, nor did it deal with the exception "unless necessitated by malignancy".
+    followed only by an extract of the general clause 4.1.2 ("Specific Illnesses").
 
-15. The Complainant's detailed representation dated 24.06.2025 and grievance to the Grievance Redressal Officer were rejected by email dated 25.06.2025 in identical, mechanical terms (**Annexure C-7 colly.**). It was only before the Insurance Ombudsman that the Opposite Party, for the first time, particularised its stand — that the procedure was *"surgery of the genitourinary system which is a specific procedure listed under section 4.1.2.f(3) on page no. 29 of the policy wordings."*
+18. This Hon'ble Commission may test the quality of this decision against the record:
 
-## VI. PROCEEDINGS BEFORE THE INSURANCE OMBUDSMAN
+    | Question | Answer on the record |
+    |---|---|
+    | Did ACKO identify **which** listed condition of its Annexure applied? | **No** — the specific entry was disclosed for the first time before the Ombudsman, a year later. |
+    | Did ACKO discuss the **biopsy report**? | **No.** |
+    | Did ACKO discuss **BXO** or its premalignant character? | **No.** |
+    | Did ACKO discuss the **treating Urologist's opinion**? | **No.** |
+    | Did ACKO analyse the **exception** contained in the very clause it relied on ("unless necessitated by malignancy")? | **No.** |
+    | Did ACKO obtain any **independent medical opinion**? | **No.** |
+    | Did ACKO refer the matter to any **Medical Board**? | **No.** |
+    | Did ACKO give any **scientific reason** why a biopsy-confirmed premalignant condition cannot fall within the exception? | **No — not even before the Ombudsman.** |
 
-16. The Complainant filed Complaint No. **NOI-H-056-2526-0961** before the Insurance Ombudsman, Noida. After hearing on 24.06.2026, the Ombudsman passed **Award No. IO/NOI/A/HI/0061/2026-2027 dated 02.07.2026** (**Annexure C-8**) dismissing the complaint.
+19. A repudiation that ignores every piece of material medical evidence, cites a clause without applying it to the facts, and conceals even the sub-clause relied upon, is a **mechanical, non-speaking and arbitrary** decision. The grievance rejection of 25.06.2025 (Annexure C-7) repeats the same sentence word for word — confirming that no application of mind ever occurred at any level.
 
-17. Significantly, however, the Award records **findings in the Complainant's favour** which are no longer open to dispute, verbatim:
+## CHAPTER VIII — THE OMBUDSMAN PROCEEDINGS HAVE NARROWED THE CONTROVERSY
+
+20. The Insurance Ombudsman, Noida, by Award No. IO/NOI/A/HI/0061/2026-2027 dated 02.07.2026 (Annexure C-11), dismissed the complaint; however, the Award records findings which bind the controversy and are no longer open to the Opposite Party, verbatim:
 
     > **Para 13:** *"It is noted that **it is not disputed that the procedure was medically necessary** and it was undertaken to address the complaint/problem of poor flow of urine, and it has also been conveyed by complainant that he had serious infection."*
     >
     > **Para 14:** *"In this sense, the procedure involving circumcision + meatoplasty **would not be covered under the Permanent Exclusion clause 4.2.3** of the policy as it has been necessitated by illness and forming part of treatment."*
 
-18. Thus, after the Ombudsman proceedings, the **only surviving dispute** is a narrow one of **interpretation**: whether a surgery performed for a biopsy-confirmed **premalignant** condition falls within the exception *"unless necessitated by malignancy"* in the Specific Illness Annexure.
+21. Consequently, before this Hon'ble Commission the controversy is a **narrow** one: whether a surgery performed for a biopsy-confirmed premalignant condition falls within the exception *"unless necessitated by malignancy"*. Medical necessity, genuineness of treatment, active policy, and inapplicability of the Permanent Exclusion all stand concluded.
 
-19. The Ombudsman answered this against the Complainant solely on the ground that the histopathology recorded "No evidence of granuloma/dysplasia/malignancy seen" and that there was no post-operative medical paper certifying malignant potential. The treating super-specialist's certificate (Annexure C-4) now expressly supplies that certification. The Award, rendered under the summary Rule 16/17 procedure of the Insurance Ombudsman Rules 2017, does not bar this Hon'ble Commission; the Ombudsman's covering letter itself invites recourse to any other forum.
+22. The Ombudsman decided the narrow point against the Complainant only because, at the hearing, there was *"no post operative medical paper"* certifying the malignant potential of BXO. That gap in the record no longer exists: the treating super-specialist's certificate (Annexure C-12) and the supporting medical literature (Annexure C-13) are now on record. The Award, rendered in the summary procedure of the Insurance Ombudsman Rules 2017, does not bar this complaint; its own covering letter grants liberty to approach any other forum.
 
-## VII. GROUNDS
+## CHAPTER IX — THE POLICY CLAUSE, READ LAST AND READ FAIRLY, SUPPORTS THE CLAIM
 
-**A. The case falls squarely within the exception contained in the policy itself**
+23. The Policy Schedule (Annexure C-1) prescribes for the Complainant, verbatim: *"Specific illness — 2 years waiting period on specific illness — NOTE: Refer Annexure for the complete disease list"*. The only entry of that Annexure relied upon by the Opposite Party reads, verbatim:
 
-20. The waiting-period entry relied upon by the Opposite Party is not an absolute exclusion. It reads: *"Any Surgery of the genitourinary system **unless necessitated by malignancy**."* The clause itself contemplates that genitourinary surgery connected with malignancy is payable **within** the first two years.
+    > **"Any Surgery of the genitourinary system *unless necessitated by malignancy*."**
 
-21. The sequence of medical facts establishes that the present surgery answers that description:
-    (a) acute obstruction — "POOR FLOW OF URINE" — with active infection requiring IV antibiotics;
-    (b) surgery performed urgently on the day of admission by an M.Ch. Urologist;
-    (c) a grossly visible **"cauliflower like lesion"** of 3.5 × 3 × 0.8 cm — a morphology classically suspicious of neoplasia — necessitating excision and histopathology;
-    (d) biopsy confirming **BXO / Lichen Sclerosus**, certified by the treating super-specialist as a **premalignant condition** with a known risk of progression to **penile carcinoma**; and
-    (e) the specialist's certification that delay carried the risk of life-threatening infection and of penile cancer.
+24. The clause is therefore **not an absolute exclusion**: the insurer itself carved out genitourinary surgery connected with malignancy from the waiting period. On the admitted and documented facts — a grossly suspicious "cauliflower like lesion", a biopsy-confirmed premalignant disease, and the treating uro-oncologist's certification that the surgery was indicated for prevention of malignant transformation — the present surgery was **"necessitated by malignancy"** within the true object and purpose of that exception.
 
-    The surgery was therefore undertaken **because of the documented malignant potential of the disease** — it was "necessitated by malignancy" within the true object and purpose of the exception.
+25. It is significant what the policy **nowhere** says. The policy:
 
-**B. Purposive and beneficial interpretation of the exception**
+    • nowhere **defines** "necessitated by malignancy";
+    • nowhere **excludes premalignant conditions** from the exception;
+    • nowhere requires an **existing or established cancer**;
+    • nowhere requires **histologically proven invasive carcinoma**; and
+    • nowhere states that **preventive oncological surgery** is excluded.
 
-22. The object of the exception is plain: the insurer intended that genuinely oncological genitourinary surgeries should not be made to wait out two years, because in such cases delay is medically dangerous. Where a competent treating specialist certifies that immediate surgery was necessary to treat and to prevent progression towards malignancy, the surgery serves precisely the purpose for which the exception was written. A construction that pays for surgery only **after** cancer has established itself — but refuses the very surgery that prevents the cancer — defeats the object of the clause and of health insurance itself. It is respectfully submitted that beneficial provisions in an insurance contract must receive a purposive interpretation that advances, not frustrates, their object.
+    The insurer's reading — that the exception operates only after cancer has fully established itself — is therefore not the only possible interpretation, and it is an interpretation that defeats the evident object of the exception: that genuinely oncological genitourinary surgery must not be made to wait out two years, because in such cases delay is medically dangerous. A construction that pays for surgery only after the cancer arrives, but refuses the very surgery that prevents it, frustrates both the clause and the purpose of health insurance.
 
-23. To be clear, the Complainant does **not** contend that he had established cancer. The contention is that **BXO is a medically recognised premalignant condition carrying a known risk of progression to penile carcinoma**, as expressly certified by the treating specialist, and that surgery undertaken on account of that documented malignant potential — and not for any cosmetic or elective reason — falls within the exception.
+26. To be precise: the Complainant does **not** contend that he had established cancer. The contention — certified by the treating uro-oncologist and supported by standard medical literature — is that **BXO is a medically recognised premalignant condition carrying a known risk of progression to penile squamous cell carcinoma**, and that the surgery was undertaken because of that documented malignant potential, not for any cosmetic or elective reason.
 
-**C. In the alternative — ambiguity must be resolved in favour of the insured (contra proferentem)**
+27. **In the alternative, and only if necessary:** if this Hon'ble Commission finds the expression "necessitated by malignancy" to be genuinely capable of two reasonable meanings — (i) surgery for established malignancy, or (ii) surgery necessitated by a disease process of malignant potential — then, by the settled rule of construction of insurance contracts (contra proferentem), the ambiguity in a clause drafted solely by the insurer must be resolved **in favour of the insured**. This submission is made strictly in the alternative; the Complainant's primary case rests on the medical evidence itself.
 
-24. Without prejudice to the above, the expression *"necessitated by malignancy"* is, at the very least, capable of two reasonable interpretations: (i) surgery for an already-established malignancy; and (ii) surgery necessitated by a disease process of malignant character or potential, including a certified premalignant condition. The policy does not define "malignancy", does not say "diagnosed malignancy" or "histologically proven malignancy", and does not address premalignant disease at all.
+## CHAPTER X — DEFICIENCY IN SERVICE AND UNFAIR TRADE PRACTICE
 
-25. It is a settled rule of construction of insurance contracts — being contracts of adhesion drafted solely by the insurer — that where the wording of an exclusion or its exception is genuinely ambiguous, the ambiguity must be construed **against the insurer and in favour of the insured** (contra proferentem). This rule applies with special force to exclusions and waiting-period clauses, which the insurer must prove strictly. The Opposite Party, having chosen the words, cannot ask that they be "reconstructed" in its own favour to deny the claim.
+28. Repudiating a genuine, medically necessary, fully documented claim — without examining the biopsy, without obtaining any medical opinion, without applying the exception in the insurer's own clause, and without disclosing even the sub-clause relied upon — constitutes **deficiency in service** within Section 2(11) and **unfair trade practice** within Section 2(47) of the Consumer Protection Act, 2019. The arbitrary repudiation has caused the Complainant financial loss, prolonged harassment across three fora over more than a year, and mental agony.
 
-**D. Deficiency in service and unfair trade practice**
+## CHAPTER XI — CAUSE OF ACTION
 
-26. The repudiation dated 26.06.2025 was mechanical and non-speaking: it did not identify the listed condition applied, did not consider the biopsy report or the exception in the clause, and simply extracted the general clause 4.1.2. The specific sub-clause was disclosed for the first time before the Ombudsman. Repudiating a genuine, medically necessary, fully documented claim of a policyholder who acted in complete good faith — without dealing with the very exception contained in the clause relied upon — is arbitrary, amounts to **deficiency in service** within Section 2(11) and **unfair trade practice** within Section 2(47) of the Consumer Protection Act, 2019.
+29. The cause of action arose on 20–21.06.2025 (hospitalization), 26.06.2025 (repudiation), 25.06.2025 and thereafter (grievance rejections), and finally on 02.07.2026 (Ombudsman Award with liberty to approach any other forum); it is continuing and arose within the jurisdiction of this Hon'ble Commission.
 
-27. The Ombudsman having recorded that medical necessity is undisputed and that the Permanent Exclusion does not apply, the refusal to honour the claim rests entirely on an untenably narrow reading of the insurer's own exception — a reading that penalises the insured for the fortunate circumstance that his premalignant disease was operated upon **before** it turned cancerous.
+## CHAPTER XII — PRAYER
 
-## VIII. CAUSE OF ACTION
+30. It is therefore most respectfully prayed that this Hon'ble Commission be pleased to:
 
-28. The cause of action arose on 20–21.06.2025 (hospitalization), on 26.06.2025 (repudiation), on 25.06.2025 and thereafter (rejection of grievance), and finally on 02.07.2026 (dismissal of the Ombudsman complaint and liberty to approach any other forum). It is continuing, and arose within the territorial jurisdiction of this Hon'ble Commission.
+    (a) **direct the Opposite Party to pay ₹37,358/-** (Rupees Thirty-Seven Thousand Three Hundred Fifty-Eight only), the admissible claim amount under Claim No. 25062100350/1;
 
-## IX. RELIEF / PRAYER
+    (b) **award interest** thereon @ 12% p.a. (or such rate as deemed fit) from 26.06.2025 (date of repudiation) till realisation;
 
-29. In the premises, it is most respectfully prayed that this Hon'ble Commission be pleased to:
-
-    (a) **direct the Opposite Party to pay the admissible claim amount of ₹37,358/-** (Rupees Thirty-Seven Thousand Three Hundred Fifty-Eight only) under Claim No. 25062100350/1;
-
-    (b) **award interest** on the said amount @ 12% p.a. (or such rate as this Hon'ble Commission deems fit) from the date of repudiation (26.06.2025) till realisation;
-
-    (c) **award compensation of ₹1,00,000/-** (or such sum as deemed fit) for the mental agony, harassment and financial hardship caused by the arbitrary repudiation and protracted proceedings;
+    (c) **award compensation of ₹1,00,000/-** (or such sum as deemed fit) for mental agony and harassment caused by the arbitrary repudiation and protracted proceedings;
 
     (d) **award litigation costs of ₹25,000/-**; and
 
-    (e) pass such other and further orders as this Hon'ble Commission may deem fit and proper in the facts and circumstances of the case.
+    (e) pass such other and further orders as this Hon'ble Commission may deem fit and proper.
 
 **AND FOR THIS ACT OF KINDNESS, THE COMPLAINANT AS IN DUTY BOUND SHALL EVER PRAY.**
 
@@ -183,7 +221,7 @@ Date: ____ July 2026
 
 ## VERIFICATION
 
-I, Vikas Gandhi, the Complainant above-named, do hereby verify that the contents of paragraphs 1 to 29 of this complaint are true and correct to my knowledge and belief, derived from the documents annexed hereto, and nothing material has been concealed therefrom.
+I, Vikas Gandhi, the Complainant above-named, do hereby verify that the contents of this complaint are true and correct to my knowledge and belief, derived from the documents annexed hereto, and nothing material has been concealed therefrom.
 
 Verified at Ghaziabad on this ____ day of July, 2026.
 
@@ -196,16 +234,31 @@ Verified at Ghaziabad on this ____ day of July, 2026.
 | Annexure | Document |
 |---|---|
 | C-1 | Policy Schedule, Policy No. ASHP202400001607 (with "Additional conditions" and Annexure – Specific illness list) |
-| C-2 | Discharge Summary, RS Maitri Health Care, Ghaziabad (20–21.06.2025) |
-| C-3 | Histopathology Report, Max Lab, dated 30.06.2025 (No. V-6630/25) |
-| C-4 | Medical Certificate of treating Urologist Dr. Vaibhav Saxena, M.B.B.S., M.S., M.Ch. (Urology) |
+| C-2 | Proposal Form (recording "No medical conditions"; "PED declared — Obesity") |
+| C-3 | Premium payment records / policy active status |
+| C-4 | Discharge Summary, RS Maitri Health Care, Ghaziabad (20–21.06.2025) |
 | C-5 | Hospital bills with break-up of charges (₹37,358/-) |
-| C-6 | Repudiation email of Opposite Party dated 26.06.2025 |
-| C-7 (colly.) | Complainant's representation dated 24.06.2025 and GRO's rejection email dated 25.06.2025, with subsequent grievance correspondence |
-| C-8 | Award of Insurance Ombudsman, Noida, No. IO/NOI/A/HI/0061/2026-2027 dated 02.07.2026, with forwarding letter (Annex-XIII-A) |
-| C-9 | Payment receipts of premium instalments / policy active status |
-| C-10 | Copy of Aadhaar / address proof of Complainant |
+| C-6 | Claim registration and Complainant's representation dated 24.06.2025 |
+| C-7 | GRO's rejection email dated 25.06.2025 |
+| C-8 | Repudiation email dated 26.06.2025 |
+| C-9 | Histopathology Report, Max Lab, dated 30.06.2025 (No. V-6630/25) |
+| C-10 (colly.) | Subsequent appeals/grievance correspondence with the Opposite Party |
+| C-11 | Award of Insurance Ombudsman, Noida, No. IO/NOI/A/HI/0061/2026-2027 dated 02.07.2026, with forwarding letter (Annex-XIII-A) |
+| C-12 | Medical Certificate of the treating super-specialist, Dr. Vaibhav Saxena, M.B.B.S., M.S., M.Ch. Urology (AIIMS, New Delhi), Director – Urology, Director – Uro-Oncology, Renal Transplant Specialist |
+| C-13 | Medical literature on BXO / Lichen Sclerosus as a premalignant condition (see note below) |
+| C-14 | Copy of Aadhaar / address proof of Complainant |
+
+### Note on Annexure C-13 (Medical Literature — to be printed and annexed)
+
+Authoritative sources recording that BXO / genital Lichen Sclerosus is a recognised premalignant condition associated with penile squamous cell carcinoma, to be annexed as C-13 (colly.):
+
+1. **European Association of Urology (EAU) Guidelines on Penile Cancer** — lichen sclerosus is listed among the recognised risk factors for penile squamous cell carcinoma.
+2. **Nasca MR, Innocenzi D, Micali G, "Penile cancer among patients with genital lichen sclerosus", Journal of the American Academy of Dermatology, 1999; 41: 911–914** — reporting malignant change in approximately 5.8% of men with genital lichen sclerosus (this corroborates the "about 6%" risk stated at the Ombudsman hearing).
+3. **Depasquale I, Park AJ, Bracka A, "The treatment of balanitis xerotica obliterans", BJU International, 2000; 86: 459–465** — standard reference recognising the association of BXO with penile carcinoma and circumcision as its primary treatment.
+4. **WHO Classification of Tumours (Urinary and Male Genital Tumours)** — recognising lichen sclerosus in the pathway of HPV-independent penile squamous cell carcinoma.
+
+*(Printouts of the relevant pages should be obtained and annexed; the treating specialist may also be requested to append the literature to his certificate.)*
 
 ---
 
-*Note: This is a working draft prepared from the documentary record for review by the Complainant's advocate before filing. An affidavit in support, the prescribed complaint fee, and the requisite number of paper-book sets are to be prepared as per the Commission's filing requirements.*
+*Working draft prepared from the documentary record for review by the Complainant's advocate before filing. An affidavit in support, complaint fee and paper-book sets are to be prepared per the Commission's filing requirements.*
