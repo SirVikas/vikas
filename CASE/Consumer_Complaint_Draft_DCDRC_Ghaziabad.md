@@ -70,7 +70,7 @@ The present complaint arises out of the repudiation of a fully documented hospit
 | 07.08.2025 | Complaint filed before Insurance Ombudsman, Noida (NOI-H-056-2526-0961) | Annexure C-11 |
 | 24.06.2026 | Personal hearing before the Ombudsman | Annexure C-11 |
 | 02.07.2026 | Ombudsman Award IO/NOI/A/HI/0061/2026-2027: complaint dismissed, **but medical necessity held undisputed and Permanent Exclusion held inapplicable**; liberty to approach any other forum | Annexure C-11; Annex-XIII-A letter |
-| July 2026 | Treating Urologist issues certificate on BXO being premalignant and surgery being necessitated by its malignant potential | Annexure C-12 |
+| 12.07.2026 | Treating Urologist issues Medical Certificate: surgery "was must" due to inability to pass urine and UTI; biopsy confirmed BXO, "a pre-malignant condition"; risk of life-threatening infection and penile cancer if not treated | Annexure C-12 |
 
 ## CHAPTER IV — THE MEDICAL FACTS: AN ACUTE ILLNESS AND A MEDICALLY UNAVOIDABLE SURGERY
 
@@ -81,7 +81,7 @@ The present complaint arises out of the repudiation of a fully documented hospit
    > **Procedure:** "CIRCUMCISION + MEATOPLASTY DONE UNDER SA ON 20/06/2025"
    > **Course during hospitalization:** "IV FLUIDS AND IV ANTIBIOTICS"
 
-7. These four entries of the hospital's own contemporaneous record establish, without any need for argument: (i) acute urinary obstruction; (ii) **active infection** — balanitis, treated with intravenous antibiotics; (iii) surgery performed **on the very day of admission**, which is possible only where surgery is medically unavoidable; and (iv) treatment by a qualified surgical team under anaesthesia in a hospital setting.
+7. These four entries of the hospital's own contemporaneous record establish, without any need for argument: (i) acute urinary obstruction; (ii) **active infection** — balanitis with urinary tract infection (UTI), treated with intravenous antibiotics, as also certified by the treating Urologist (Annexure C-12); (iii) surgery performed **on the very day of admission**, which is possible only where surgery is medically unavoidable; and (iv) treatment by a qualified surgical team under anaesthesia in a hospital setting.
 
 8. The excised preputial tissue was sent for histopathological examination — a step which was **clinically indicated**, because the Histopathology Report of Max Lab dated 30.06.2025, No. V-6630/25 (Annexure C-9), records in its Gross Description, verbatim:
 
@@ -99,20 +99,23 @@ The present complaint arises out of the repudiation of a fully documented hospit
 
 ## CHAPTER V — OPINION OF THE TREATING SUPER-SPECIALIST
 
-11. The treating surgeon and certifying specialist is **Dr. Vaibhav Saxena, M.B.B.S., M.S., M.Ch. (Urology – AIIMS, New Delhi)**, who is:
+11. The treating surgeon and certifying specialist is **Dr. Vaibhav Saxena, M.S. (BHU), M.Ch. Urology (AIIMS, New Delhi)**, U.P. Medical Council Reg. No. 47425, who, as per his professional letterhead and registration stamp, is:
 
-    • Director – Urology;
-    • Director – Uro-Oncology (Cancer);
-    • Renal Transplant Specialist; and
+    • **Senior Director – Urology, Uro-Oncology (Cancer), Robotic Surgery and Renal Transplant**, Yashoda Super Speciality Hospital, Kaushambi;
+    • Consultant Urologist, RS Maitri Health Care, J-278, Patel Nagar 1st, Ghaziabad; and
     • **the treating surgeon himself**, who operated upon the Complainant and followed up the histopathology.
 
-12. This is not the opinion of an ordinary physician rendered on paper review. It is the certification of a **super-specialist in urological cancer who personally examined, operated upon and followed up the patient**. His certificate (Annexure C-12) certifies that:
+12. This is not the opinion of an ordinary physician rendered on paper review. It is the certification of a **super-specialist in urological cancer who personally examined, operated upon and followed up the patient**. His Medical Certificate dated 12.07.2026 (Annexure C-12), issued "To Whom It May Concern", certifies verbatim:
 
-    (a) the biopsy confirmed **BXO / Lichen Sclerosus**;
-    (b) BXO is a **recognised premalignant condition** carrying a known risk of progression to **penile carcinoma**;
-    (c) the surgery was **medically necessary and urgent**, indicated both for treatment and for **prevention of malignant transformation**, and was neither elective nor cosmetic;
-    (d) delay in surgery exposed the patient to the risk of **life-threatening infection** and of **penile cancer**; and
-    (e) the condition was **acute in onset and not pre-existing**.
+    > *"Mr. Vikas Gandhi, 54 yrs Male, R/o D-20, Dayanand Nagar, Ghaziabad **was suffering from Phimosis with Balanitis with meatal stenosis & UTI. His surgery was must in view of unable to pass urine & UTI. His Preputial Biopsy came out to be (BXO) which is a pre-malignant condition** & not any elective or cosmetic surgery. **There is life threatening infection risk & risk of penile cancer if not treated…**"*
+
+    The certificate thus establishes, in the treating specialist's own hand, that:
+
+    (a) the patient suffered from phimosis with balanitis, meatal stenosis **and UTI**;
+    (b) the surgery **"was must"** — medically unavoidable — in view of inability to pass urine and UTI;
+    (c) the preputial biopsy confirmed **BXO, "a pre-malignant condition"**;
+    (d) the surgery was **not elective or cosmetic**; and
+    (e) without treatment there was a risk of **life-threatening infection** and of **penile cancer**.
 
 13. It is respectfully submitted that the opinion of the treating super-specialist carries the **highest evidentiary value** in a medical-claim dispute. The Opposite Party has never produced — at the claim stage, the grievance stage, or before the Ombudsman — **any contrary opinion of any doctor whatsoever**, let alone of an equally qualified uro-oncologist. An insurer cannot arbitrarily discard the unrebutted opinion of the treating specialist on the basis of a desk assessment by unnamed, unqualified claim processors.
 
@@ -171,7 +174,7 @@ The present complaint arises out of the repudiation of a fully documented hospit
 
     > **"Any Surgery of the genitourinary system *unless necessitated by malignancy*."**
 
-24. The clause is therefore **not an absolute exclusion**: the insurer itself carved out genitourinary surgery connected with malignancy from the waiting period. On the admitted and documented facts — a grossly suspicious "cauliflower like lesion", a biopsy-confirmed premalignant disease, and the treating uro-oncologist's certification that the surgery was indicated for prevention of malignant transformation — the present surgery was **"necessitated by malignancy"** within the true object and purpose of that exception.
+24. The clause is therefore **not an absolute exclusion**: the insurer itself carved out genitourinary surgery connected with malignancy from the waiting period. On the admitted and documented facts — a grossly suspicious "cauliflower like lesion", a biopsy-confirmed premalignant disease, and the treating uro-oncologist's certification that BXO is *"a pre-malignant condition"* carrying, if untreated, the *"risk of penile cancer"* — the present surgery was **"necessitated by malignancy"** within the true object and purpose of that exception.
 
 25. It is significant what the policy **nowhere** says. The policy:
 
@@ -244,7 +247,7 @@ Verified at Ghaziabad on this ____ day of July, 2026.
 | C-9 | Histopathology Report, Max Lab, dated 30.06.2025 (No. V-6630/25) |
 | C-10 (colly.) | Subsequent appeals/grievance correspondence with the Opposite Party |
 | C-11 | Award of Insurance Ombudsman, Noida, No. IO/NOI/A/HI/0061/2026-2027 dated 02.07.2026, with forwarding letter (Annex-XIII-A) |
-| C-12 | Medical Certificate of the treating super-specialist, Dr. Vaibhav Saxena, M.B.B.S., M.S., M.Ch. Urology (AIIMS, New Delhi), Director – Urology, Director – Uro-Oncology, Renal Transplant Specialist |
+| C-12 | Medical Certificate dated 12.07.2026 of the treating super-specialist, Dr. Vaibhav Saxena, M.S. (BHU), M.Ch. Urology (AIIMS, New Delhi), Senior Director – Urology, Uro-Oncology, Robotic Surgery & Renal Transplant, Yashoda Super Speciality Hospital, Kaushambi; U.P. Medical Council Reg. No. 47425 |
 | C-13 | Medical literature on BXO / Lichen Sclerosus as a premalignant condition (see note below) |
 | C-14 | Copy of Aadhaar / address proof of Complainant |
 
