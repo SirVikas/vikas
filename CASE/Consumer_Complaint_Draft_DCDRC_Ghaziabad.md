@@ -133,6 +133,8 @@ The present complaint arises out of the repudiation of a fully documented hospit
 
 16. It is of decisive significance that the Opposite Party has **never** alleged suppression of material facts, has **never** invoked the Pre-Existing Disease clause, and has **never** questioned the genuineness of the illness or of the treatment. Any suggestion that the disease existed prior to policy inception therefore stands completely demolished by the insurer's own record and its own conduct.
 
+16-A. Indeed, the Opposite Party has itself **renewed** the policy as Policy No. ASHP202400001607R1 for the period 04.11.2025–03.11.2026 (Sum Insured ₹11,00,000 including inflation-protection bonus; premium ₹36,656.86 — Annexure C-1 colly.). The renewal document records "**First policy inception date: 04/11/2024**" and "Existing user: Yes". The insurer thus continues to accept the Complainant's premium and treats the cover as continuous from 04.11.2024 — even while refusing the only claim ever made under it.
+
 ## CHAPTER VII — THE REPUDIATION: MECHANICAL, NON-SPEAKING AND ARBITRARY
 
 17. The entire repudiation email dated 26.06.2025 (Annexure C-8), insofar as it gives reasons, states verbatim:
@@ -236,7 +238,7 @@ Verified at Ghaziabad on this ____ day of July, 2026.
 
 | Annexure | Document |
 |---|---|
-| C-1 | Policy Schedule, Policy No. ASHP202400001607 (with "Additional conditions" and Annexure – Specific illness list) |
+| C-1 (colly.) | Policy Schedule, Policy No. ASHP202400001607 (with "Additional conditions" and Annexure – Specific illness list); renewal Policy Schedule No. ASHP202400001607R1 (04.11.2025–03.11.2026) |
 | C-2 | Proposal Form (recording "No medical conditions"; "PED declared — Obesity") |
 | C-3 | Premium payment records / policy active status |
 | C-4 | Discharge Summary, RS Maitri Health Care, Ghaziabad (20–21.06.2025) |
