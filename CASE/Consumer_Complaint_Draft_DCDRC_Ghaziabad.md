@@ -63,7 +63,7 @@ The present complaint arises out of the repudiation of a fully documented hospit
 | 20.06.2025 | Admitted to RS Maitri Health Care, Ghaziabad at 06:58 hrs; **Circumcision + Meatoplasty performed the same day** under spinal anaesthesia by Dr. Vaibhav Saxena, M.Ch. (Urology); IV fluids and IV antibiotics administered; excised tissue sent for histopathology | Annexure C-4 |
 | 21.06.2025 | Discharged in stable condition; total hospital expenses ₹37,358/- | Annexure C-4; Annexure C-5 (Bills) |
 | 21/24.06.2025 | Reimbursement Claim No. 25062100350/1 lodged with all documents; detailed representation sent | Annexure C-6 |
-| 25.06.2025 | Grievance Redressal Officer rejects the representation in mechanical terms | Annexure C-7 |
+| 25.06.2025 | Claim rejected by "Update on Your Claim" email quoting the genitourinary entry and asserting — five days before the histopathology report existed — that the procedure "is not related to a malignancy"; GRO separately rejects the representation in identical mechanical terms | Annexure C-7 |
 | 26.06.2025 | **Claim repudiated** by email citing only the general "Specific Illnesses" waiting-period clause, without naming any listed condition and without dealing with the exception contained in it | Annexure C-8 |
 | 30.06.2025 | **Histopathology Report** (Max Lab, No. V-6630/25): gross "cauliflower like lesion 3.5 × 3 × 0.8 cm"; Impression: "Consistent with Lichen sclerosus (balanitis xerotica obliterans)" | Annexure C-9 |
 | Jul–Aug 2025 | Appeals and grievances to the Opposite Party — all rejected without dealing with the medical evidence | Annexure C-10 (colly.) |
@@ -139,13 +139,13 @@ The present complaint arises out of the repudiation of a fully documented hospit
 
     > *"After carefully reviewing your claim, we noticed that you have filed a claim for the expenses incurred for treatment of a condition falling under waiting period. Unfortunately, these costs are not a part of your insurance coverage. As a result, we are unable to approve your claim."*
 
-    followed only by an extract of the general clause 4.1.2 ("Specific Illnesses").
+    followed only by an extract of the general clause 4.1.2 ("Specific Illnesses"). A day earlier, by its "Update on Your Claim" email dated 25.06.2025 (Annexure C-7), the Opposite Party had cited the genitourinary entry and declared that *"this procedure is not related to a malignancy"* — a **medical conclusion pronounced five days before the histopathology report (30.06.2025) even existed**, and without reference to any medical opinion whatsoever.
 
 18. This Hon'ble Commission may test the quality of this decision against the record:
 
     | Question | Answer on the record |
     |---|---|
-    | Did ACKO identify **which** listed condition of its Annexure applied? | **No** — the specific entry was disclosed for the first time before the Ombudsman, a year later. |
+    | Did ACKO have any **medical basis** for its assertion of 25.06.2025 that the procedure "is not related to a malignancy"? | **No** — the histopathology report came into existence only on 30.06.2025, five days **after** that assertion. |
     | Did ACKO discuss the **biopsy report**? | **No.** |
     | Did ACKO discuss **BXO** or its premalignant character? | **No.** |
     | Did ACKO discuss the **treating Urologist's opinion**? | **No.** |
@@ -154,7 +154,7 @@ The present complaint arises out of the repudiation of a fully documented hospit
     | Did ACKO refer the matter to any **Medical Board**? | **No.** |
     | Did ACKO give any **scientific reason** why a biopsy-confirmed premalignant condition cannot fall within the exception? | **No — not even before the Ombudsman.** |
 
-19. A repudiation that ignores every piece of material medical evidence, cites a clause without applying it to the facts, and conceals even the sub-clause relied upon, is a **mechanical, non-speaking and arbitrary** decision. The grievance rejection of 25.06.2025 (Annexure C-7) repeats the same sentence word for word — confirming that no application of mind ever occurred at any level.
+19. A repudiation that ignores every piece of material medical evidence, cites a clause without applying it to the facts, and pronounces a medical conclusion ("not related to a malignancy") **before the histopathology report even existed**, is a **mechanical, non-speaking and arbitrary** decision. Quoting the clause is not application of mind; applying it to the medical evidence is — and that never happened at any level.
 
 ## CHAPTER VIII — THE OMBUDSMAN PROCEEDINGS HAVE NARROWED THE CONTROVERSY
 
