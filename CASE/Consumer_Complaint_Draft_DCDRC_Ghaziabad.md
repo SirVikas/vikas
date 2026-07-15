@@ -72,6 +72,7 @@ The present complaint arises out of the repudiation of a fully documented hospit
 | 02.07.2026 | Ombudsman Award IO/NOI/A/HI/0061/2026-2027: complaint dismissed, **but medical necessity held undisputed and Permanent Exclusion held inapplicable**; liberty to approach any other forum | Annexure C-11; Annex-XIII-A letter |
 | 12.07.2026 | Treating Urologist issues Medical Certificate: surgery "was must" due to inability to pass urine and UTI; biopsy confirmed BXO, "a pre-malignant condition"; risk of life-threatening infection and penile cancer if not treated | Annexure C-12 |
 | 14.07.2026 | Grievance registered on the National Consumer Helpline (INGRAM) portal against the repudiation — Grievance No. 9719631 (status: in process) | Annexure C-10 (colly.) |
+| 15.07.2026 | Opposite Party's Grievance Redressal Officer replies by email, reiterating verbatim the very "waiting period" ground of 26.06.2025 — once again without identifying any listed condition in the Schedule, and without adverting to the biopsy report, the treating doctor's certificate dated 12.07.2026, or the Ombudsman's findings in paras 13–14 of the Award | Annexure C-10 (colly.) |
 
 ## CHAPTER IV — THE MEDICAL FACTS: AN ACUTE ILLNESS AND A MEDICALLY UNAVOIDABLE SURGERY
 
