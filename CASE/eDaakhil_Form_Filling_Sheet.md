@@ -41,7 +41,7 @@
 | Name | VIKAS GANDHI |
 | Age | 53 वर्ष (जन्मतिथि 09/10/1972) |
 | Gender | Male |
-| Relation से जुड़ा field (S/o, W/o) | *(अपने पिता का नाम भरें — मेरे records में नहीं है)* |
+| Relation से जुड़ा field (S/o, W/o) | S/o Shri Surendra Gandhi |
 | Address | D-20, 1st Floor, Dayanand Nagar, Ghaziabad, Uttar Pradesh – 201001 |
 | State / District / Pincode | Uttar Pradesh / Ghaziabad / 201001 |
 | Mobile | 9911198000 |
@@ -104,7 +104,7 @@
 >
 > **AFFIDAVIT**
 >
-> I, Vikas Gandhi, aged about 53 years, S/o ____________, R/o D-20, 1st Floor, Dayanand Nagar, Ghaziabad, U.P. – 201001, the Complainant above-named, do hereby solemnly affirm and state as under:
+> I, Vikas Gandhi, aged about 53 years, S/o Shri Surendra Gandhi, R/o D-20, 1st Floor, Dayanand Nagar, Ghaziabad, U.P. – 201001, the Complainant above-named, do hereby solemnly affirm and state as under:
 > 1. That I am the Complainant in the accompanying complaint and am fully conversant with the facts of the case.
 > 2. That the contents of the accompanying complaint (paragraphs 1 to 30) have been drafted under my instructions; the same are true and correct to my knowledge, based on the documents annexed as Annexures C-1 to C-14, and nothing material has been concealed therefrom.
 > 3. That the documents filed along with the complaint are true copies of their respective originals.
@@ -126,7 +126,7 @@
 > **MEMO OF PARTIES**
 >
 > **COMPLAINANT:**
-> Mr. Vikas Gandhi, S/o ____________, aged about 53 years,
+> Mr. Vikas Gandhi, S/o Shri Surendra Gandhi, aged about 53 years,
 > R/o D-20, 1st Floor, Dayanand Nagar, Ghaziabad, U.P. – 201001
 > Mobile: 9911198000 | Email: 9amdeal@gmail.com
 >

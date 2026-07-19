@@ -9,7 +9,7 @@
 **IN THE MATTER OF:**
 
 **Mr. Vikas Gandhi**
-Aged about 53 years,
+S/o Shri Surendra Gandhi, aged about 53 years,
 R/o D-20, 1st Floor, Dayanand Nagar,
 Ghaziabad, Uttar Pradesh – 201001
 Mobile: 9911198000 | Email: 9amdeal@gmail.com
