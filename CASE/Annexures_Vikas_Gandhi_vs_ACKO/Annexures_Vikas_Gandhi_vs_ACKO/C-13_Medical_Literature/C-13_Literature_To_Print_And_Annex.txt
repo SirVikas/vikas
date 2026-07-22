@@ -1,23 +1,84 @@
-C-13 (colly.): MEDICAL LITERATURE - BXO/Lichen Sclerosus is a recognised
-premalignant condition associated with penile squamous cell carcinoma.
+C-13 (colly.): MEDICAL LITERATURE
+Proposition to be established: BXO / genital Lichen Sclerosus is a RECOGNISED
+PREMALIGNANT condition of the penis, associated with penile squamous cell
+carcinoma; and PHIMOSIS (the patient's recorded diagnosis) is itself strongly
+associated with invasive penile cancer.
 
-PRINT the relevant pages of the following and place them in this folder:
+Two authoritative documents are on record in this folder. These two are
+sufficient and are stronger than a longer list, because the EAU Guideline is
+the governing urological authority, and the Bunker review already CITES both
+Nasca (1999) and Depasquale (2000) — the two primary papers relied upon at the
+Ombudsman stage — and states the malignancy risk range that brackets the "~6%"
+figure mentioned at that hearing.
 
-1. EAU (European Association of Urology) Guidelines on Penile Cancer -
-   section on epidemiology/risk factors (lichen sclerosus listed as a
-   risk factor). https://uroweb.org/guidelines/penile-cancer
+====================================================================
+C-13A : EAU GUIDELINES ON PENILE CANCER (2022)  [full PDF = 38 pages]
+File: C-13A_EAU_Guidelines_Penile_Cancer_2022.pdf
+--------------------------------------------------------------------
+DO NOT print all 38 pages. Print only these THREE pages and highlight the
+marked lines:
 
-2. Nasca MR, Innocenzi D, Micali G. "Penile cancer among patients with
-   genital lichen sclerosus." J Am Acad Dermatol 1999;41:911-914.
-   (Malignant change in ~5.8% of men with genital lichen sclerosus --
-   corroborates the "about 6%" stated at the Ombudsman hearing.)
+  1) COVER / TITLE PAGE (page 1)
+       - for identification: "EAU Guidelines on Penile Cancer".
 
-3. Depasquale I, Park AJ, Bracka A. "The treatment of balanitis xerotica
-   obliterans." BJU International 2000;86:459-465.
-   (BXO's association with penile carcinoma; circumcision as treatment.)
+  2) PDF PAGE 8  -- HIGHLIGHT:
+       - Table 1 (risk factors), the PHIMOSIS row:
+           "Phimosis ... Odds ratio 11-16 vs. no phimosis"
+       - the sentence:
+           "Phimosis is strongly associated with invasive penile cancer
+            ... due to associated chronic infection."
 
-4. WHO Classification of Tumours - Urinary and Male Genital Tumours
-   (lichen sclerosus in the pathway of HPV-independent penile SCC).
+  3) PDF PAGE 9  -- HIGHLIGHT (THIS IS THE SINGLE MOST IMPORTANT LINE):
+       - Table 4: "Premalignant penile lesions (precursor lesions)"
+            -> first entry: "Lichen sclerosis"
+         i.e. the EAU itself classifies lichen sclerosus (= the patient's
+         biopsy diagnosis, BXO) as a PREMALIGNANT PRECURSOR lesion.
 
-TIP: Also request the treating specialist to countersign the printed
-literature or reference it in a supplementary note.
+  CAUTION (page 8 contains one double-edged sentence):
+       "... lichen sclerosus ... is NOT associated with adverse
+        histopathological features, including PeIN."
+     -> DO NOT crop or hide it (cropping a page looks like tampering).
+        Print the full page. It is already neutralised by our own record:
+          (a) the SAME guideline, page 9 Table 4, lists lichen sclerosis as a
+              premalignant precursor lesion; and
+          (b) C-13B (Bunker), page 4, states differentiated PeIN is OFTEN
+              associated with MGLSc, with a malignancy risk of 2-12.5%.
+        That sentence is a narrow point about PeIN co-occurrence, not a denial
+        of premalignant status.
+
+====================================================================
+C-13B : BUNKER CB, SHIM TN — "MALE GENITAL LICHEN SCLEROSUS"
+        (Review Article, Indian Journal of Dermatology)  [full PDF = 7 pages]
+File: C-13B_Bunker_Male_Genital_Lichen_Sclerosus_IJD_Review.pdf
+--------------------------------------------------------------------
+Short, self-contained peer-reviewed review -> print the WHOLE 7-page article
+(complete articles read better than snippets). Highlight:
+
+  - PAGE 1 (Abstract):
+       "An afeared complication is squamous cell carcinoma (SCC) of the penis."
+       "Surgery is indicated for cases unresponsive to topical corticosteroid
+        therapy, phimosis, meatal stenosis, urethral stricture, carcinoma in
+        situ (CIS) and squamous cell carcinoma."
+     (directly supports surgery for the patient's phimosis + meatal stenosis.)
+
+  - PAGE 4 (KEY paragraph):
+       "The association of GLSc and SCC is widely recognized and the risk has
+        been estimated at between 2% and 12.5%."
+       "MGLSc is also considered one of the two pathways for the development of
+        CIS and penile cancer, the other being via HPV infection."
+
+  - This review's reference list already contains:
+       ref 76 = Nasca MR, Innocenzi D, Micali G. J Am Acad Dermatol 1999;41:911.
+       ref 13 = Depasquale I, Park AJ, Bracka A. BJU Int 2000;86:459.
+     -> so the two primary sources relied on earlier are subsumed here; no need
+        to separately obtain them for filing.
+
+====================================================================
+DO NOT attach website screenshots. Attach the PDF/journal PRINT only — a
+screenshot is a weaker form of proof and invites authenticity objections.
+
+BEST PRACTICE: request the treating specialist, Dr. Vaibhav Saxena, to
+reference / append these two documents to (or alongside) his Medical
+Certificate (C-12). That converts the literature into the treating
+super-specialist's own countersigned opinion and removes any authenticity
+question.

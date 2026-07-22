@@ -40,5 +40,5 @@
 1. **NCH पर नज़र रखें** — portal पर ACKO का जवाब आएगा (आम तौर पर 30-45 दिन)। जवाब आते ही उसकी copy इसी folder में रखें। NCH में समझौता हो जाए तो बढ़िया; न हो तो यह record consumer forum में "हर मंच आज़माया" के सबूत के रूप में काम आएगा।
 2. **e-Daakhil filing** — NCH के नतीजे का इंतज़ार करना **ज़रूरी नहीं** है; limitation (26.06.2027) से बहुत पहले DCDRC Ghaziabad में परिवाद दाखिल कर दें। सभी drafts तैयार हैं: complaint, affidavit, memo of parties, form sheet, annexures ZIP।
 3. **C-12 scan** — doctor certificate के original का साफ scan annexure package में जोड़ना बाकी।
-4. **C-13 printouts** — medical literature (EAU, Nasca 1999, Depasquale 2000) के print जोड़ने बाकी।
+4. **C-13 medical literature — दस्तावेज़ आ गए** (`C-13_Medical_Literature/` में): **C-13A** EAU Guidelines on Penile Cancer 2022, **C-13B** Bunker & Shim, "Male Genital Lichen Sclerosus" (Indian J Dermatol review — Nasca 1999 व Depasquale 2000 दोनों को cite करता है)। अब सिर्फ़ highlighted पन्नों का print निकालना बाकी — कौन-से पन्ने/पंक्तियाँ, folder की `C-13_Literature_To_Print_And_Annex.txt` में दर्ज। EAU के सभी 38 पन्ने नहीं — cover + PDF pp. 8-9 ही; Bunker पूरा (7 पन्ने)। Screenshot नहीं, PDF print दें।
 5. Complaint की chronology में NCH grievance की row जोड़ दी गई है।

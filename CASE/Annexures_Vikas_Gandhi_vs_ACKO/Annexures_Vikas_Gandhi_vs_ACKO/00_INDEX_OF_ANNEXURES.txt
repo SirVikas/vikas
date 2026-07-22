@@ -28,8 +28,10 @@ C-11  Insurance Ombudsman:
       C: Hearing notice  D: CIOINS letter  E: Complaint covering letter
 C-12  Medical Certificate of treating super-specialist dated 12.07.2026
       (** scan of original to be added - see READ ME inside **)
-C-13  Medical literature on BXO as premalignant condition
-      (** printouts to be added - see note inside **)
+C-13  Medical literature on BXO as premalignant condition (colly.)
+      C-13A: EAU Guidelines on Penile Cancer 2022 (print cover + PDF pp. 8-9)
+      C-13B: Bunker & Shim, "Male Genital Lichen Sclerosus", Indian J Dermatol
+      (** print highlighted pages - see instruction sheet inside folder **)
 C-14  Aadhaar / address proof (** copy to be added **)
 
 EXTRA_For_Advocate_Review: documents NOT cited in the complaint
