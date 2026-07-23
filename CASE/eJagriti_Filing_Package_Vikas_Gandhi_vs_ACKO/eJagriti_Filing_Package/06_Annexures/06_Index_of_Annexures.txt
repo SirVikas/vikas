@@ -1,0 +1,38 @@
+VIKAS GANDHI vs ACKO GENERAL INSURANCE LTD.
+District Consumer Disputes Redressal Commission, Ghaziabad
+LIST OF ANNEXURES (matches the List in the Consumer Complaint)
+===============================================================
+
+C-01  Policy Schedule ASHP202400001607
+      A: Policy schedule with "Additional conditions" & Specific-illness
+         Annexure ("...unless necessitated by malignancy" - the KEY line)
+      B: Customer Information Sheet
+      C: Policy issuance email
+C-02  Proposal Form ("No medical conditions"; PED declared - Obesity)
+C-03  Premium payment records (A-D emails; E: premium/tax certificate)
+C-04  Discharge Summary, RS Maitri Health Care (20-21.06.2025)
+C-05  Hospital bills with break-up (Rs. 37,358)
+C-06  Claim registration (21.06.2025) + representation/grievance of
+      24.06.2025 with ACKO's ticket acknowledgment
+C-07  ACKO "Update on Your Claim" rejection email dated 25.06.2025
+      (declares "not related to a malignancy" -- FIVE DAYS BEFORE the
+      biopsy report existed. KEY DOCUMENT.)
+C-08  Formal repudiation email dated 26.06.2025
+C-09  Histopathology (Biopsy) Report, Max Lab, 30.06.2025, V-6630/25
+      ("cauliflower like lesion"; Impression: BXO / Lichen sclerosus)
+C-10  Subsequent appeals & correspondence (A-E) + full email thread (F)
+C-11  Insurance Ombudsman:
+      A: Award IO/NOI/A/HI/0061/2026-2027 dated 02.07.2026
+         (paras 13-14 favour Complainant)
+      B: Forwarding letter Annex-XIII-A (liberty to approach any forum)
+      C: Hearing notice  D: CIOINS letter  E: Complaint covering letter
+C-12  Medical Certificate of treating super-specialist dated 12.07.2026
+      (** scan of original to be added - see READ ME inside **)
+C-13  Medical literature on BXO as premalignant condition
+      (** printouts to be added - see note inside **)
+C-14  Aadhaar / address proof (** copy to be added **)
+
+EXTRA_For_Advocate_Review: documents NOT cited in the complaint
+(first claim no. 25061600592 emails, autopay-failed notice, ultrasound
+reports). Advocate to decide whether any of these should be filed;
+be aware ACKO may refer to them.
