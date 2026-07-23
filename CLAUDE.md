@@ -15,3 +15,7 @@
 - Claim ₹37,358 + ₹1,00,000 compensation + ₹25,000 costs = ₹1,62,358 + interest @12% p.a. from 26.06.2025
 - Filing package: `CASE/eJagriti_Filing_Package/` (zip: `CASE/eJagriti_Filing_Package_Vikas_Gandhi_vs_ACKO.zip`), keyed to the e-Jagriti portal checklist
 - Case timeline and forum-wise status: `CASE/Case_Status_Tracker.md`
+
+## DLAP documents — Cuttly short links
+
+- Cuttly short links (and OneDrive source links) for the DLAP documents are recorded in `DLAP_Document_Links.md` (repo root). Update that registry whenever a new short link is created.
