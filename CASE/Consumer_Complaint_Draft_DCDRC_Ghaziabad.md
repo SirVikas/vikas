@@ -259,6 +259,23 @@ surgery → clinically indicated biopsy → biopsy-confirmed BXO. Not one
 link in this chain rests on the Complainant\'s say-so; every link is a
 hospital or laboratory record.
 
+**10-A. Plain meaning of the medical terms (for ready reference of this
+Hon'ble Commission).** The conditions recorded in the Complainant's own
+hospital and laboratory documents are, in ordinary language, the
+following: (a) **Phimosis** is an abnormal tightening of the foreskin
+which prevents its normal retraction and, in its severe form, obstructs
+the free passage of urine; (b) **Balanitis** is an active inflammation
+and infection of the glans and foreskin; (c) **Meatal stenosis** is a
+narrowing of the urinary opening which further obstructs the flow of
+urine; and (d) **Balanitis Xerotica Obliterans (BXO)**, also called
+genital **Lichen Sclerosus**, is a chronic scarring disease of the
+foreskin that is medically recognised as a **pre-malignant
+(pre-cancerous)** condition --- that is, a condition carrying a known
+risk of progressing to cancer of the penis if it is not treated. None of
+these is a cosmetic complaint; each is an organic disease recorded
+contemporaneously by the treating hospital, and together they explain
+why urgent surgery was undertaken on the very day of admission.
+
 **CHAPTER V --- OPINION OF THE TREATING SUPER-SPECIALIST**
 
 11\. The treating surgeon and certifying specialist is **Dr. Vaibhav
@@ -314,6 +331,22 @@ contrary opinion of any doctor whatsoever**, let alone of an equally
 qualified uro-oncologist. An insurer cannot arbitrarily discard the
 unrebutted opinion of the treating specialist on the basis of a desk
 assessment by unnamed, unqualified claim processors.
+
+**13-A. The evidentiary position is entirely one-sided.** On one side
+stands the written, reasoned certificate of the very super-specialist
+who admitted, operated upon and personally followed up the Complainant,
+corroborated by the contemporaneous Discharge Summary (Annexure C-4),
+the laboratory Histopathology Report (Annexure C-9) and standard medical
+literature (Annexure C-13). On the other side there is nothing at all:
+the Opposite Party has not, at any stage --- claim, grievance, or before
+the Ombudsman --- placed on record the opinion of any doctor, any second
+medical opinion, any reference to a Medical Board, or any reasoned
+medical analysis of the biopsy. In a medical-claim dispute the
+unrebutted opinion of the treating specialist ordinarily carries the
+highest evidentiary value, and an insurer that seeks to displace it
+carries the burden of producing contrary medical material of at least
+equal authority. That burden has not merely gone undischarged; it has
+not even been attempted.
 
 **CHAPTER VI --- THE PROPOSAL FORM: NO SUPPRESSION, NO PRE-EXISTING
 DISEASE**
@@ -424,6 +457,32 @@ non-speaking and arbitrary** decision. Quoting the clause is not
 application of mind; applying it to the medical evidence is --- and that
 never happened at any level.
 
+**CHAPTER VII-A --- THE REPUDIATION FAILED THE DUTY TO PASS A REASONED,
+SPEAKING DECISION**
+
+19-A. It is a settled incident of fair dealing, and of the insurer's
+obligation of utmost good faith, that the repudiation of a health claim
+must be a reasoned, "speaking" decision. Such a decision must (i)
+identify the specific policy condition relied upon; (ii) apply that
+condition to the specific medical facts of the case; and (iii) deal with
+the material evidence placed on record by the insured. A rejection that
+merely reproduces the text of a clause --- without naming the listed
+illness said to attract it, and without engaging with the biopsy, the
+treating specialist's certificate, or the exception written into the
+very same clause --- is not an application of mind; it is a template.
+
+19-B. The record discloses precisely such a template. The rejection
+e-mail dated 25.06.2025, the repudiation dated 26.06.2025, and the
+Grievance Redressal Officer's reply dated 15.07.2026 are, in substance,
+identical: each recites the general "Specific Illnesses" waiting period;
+none identifies any listed condition in the Schedule; none refers to the
+Histopathology Report; none refers to the treating super-specialist's
+certificate; and none refers to the Ombudsman's findings in paras 13--14
+of the Award. A process that repeats the same unreasoned conclusion at
+three successive stages, in the teeth of the medical record, is itself a
+distinct and independent deficiency in service, quite apart from the
+ultimate merits of the claim.
+
 **CHAPTER VIII --- THE OMBUDSMAN PROCEEDINGS HAVE NARROWED THE
 CONTROVERSY**
 
@@ -529,6 +588,23 @@ Section 2(47) of the Consumer Protection Act, 2019. The arbitrary
 repudiation has caused the Complainant financial loss, prolonged
 harassment across three fora over more than a year, and mental agony.
 
+**28-A. Particulars of the deficiency.** The deficiency in service
+consists not of a single act but of a continuing course of conduct. In
+particular, the Opposite Party: (a) repudiated the claim without ever
+examining the biopsy report; (b) obtained no medical opinion of its own
+at any stage; (c) failed to apply the express exception "unless
+necessitated by malignancy" contained in the very clause it invoked; (d)
+pronounced, on 25.06.2025, a medical conclusion ("not related to a
+malignancy") five days before the Histopathology Report of 30.06.2025
+even existed; (e) failed to disclose, even before the Ombudsman, the
+specific sub-clause said to bar the claim; and (f) reiterated the same
+unreasoned ground across the claim, grievance and post-Award stages,
+thereby causing the Complainant financial loss and prolonged mental
+agony across more than a year and three successive fora. Each of these,
+and certainly their cumulative effect, amounts to deficiency in service
+under Section 2(11) and to an unfair trade practice under Section 2(47)
+of the Consumer Protection Act, 2019.
+
 **CHAPTER XI --- CAUSE OF ACTION**
 
 29\. The cause of action arose on 20--21.06.2025 (hospitalization),
@@ -536,6 +612,25 @@ harassment across three fora over more than a year, and mental agony.
 rejections), and finally on 02.07.2026 (Ombudsman Award with liberty to
 approach any other forum); it is continuing and arose within the
 jurisdiction of this Hon\'ble Commission.
+
+**CHAPTER XI-A --- SUMMARY OF THE COMPLAINANT'S CASE ON THE DOCUMENTS**
+
+29-A. For convenience, the Complainant's case rests, at every step, on a
+document already on record and not on any oral assertion: (i) a live,
+fully paid policy with "no exclusion" recorded in its own Schedule
+(Annexure C-1) and "no medical conditions" declared in the Proposal Form
+accepted after underwriting (Annexure C-2); (ii) an acute, documented
+illness and an emergency, same-day surgery (Annexure C-4); (iii) a
+biopsy confirming a pre-malignant condition (Annexure C-9); (iv) the
+written certificate of the treating uro-oncologist that the surgery "was
+must" and that untreated BXO carried a risk of penile cancer (Annexure
+C-12), supported by standard medical literature (Annexure C-13); (v) the
+insurer's own clause carving out surgery "necessitated by malignancy"
+from the waiting period (Annexure C-1); and (vi) the Ombudsman's own
+finding that medical necessity is undisputed and the Permanent Exclusion
+inapplicable (Annexure C-11). Against this record the Opposite Party has
+placed no medical material whatsoever. The controversy is thus narrow,
+and the documents resolve it in the Complainant's favour.
 
 **CHAPTER XII --- PRAYER**
 
