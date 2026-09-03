@@ -1,7 +1,7 @@
 # GLOBAL FTD ID STANDARD
 
 **Status:** PERMANENT / ACTIVE  
-**Version:** 1.0  
+**Version:** 1.1  
 **Authority:** Repository governance / Founder-controlled governance where applicable
 
 ## Purpose
@@ -55,4 +55,36 @@ When referencing an FTD outside its home repository, always use its complete glo
 
 When Claude receives an FTD GitHub link, it must read that FTD and its repository governance, then use the complete FTD ID for all planning, implementation, verification and closure references. If the FTD is legacy-numbered, preserve the legacy ID while recording the repository and relationships explicitly.
 
-**Canonical source:** this file defines the portfolio namespace; each repository's `FTD_MANAGEMENT_SYSTEM.md` defines local lifecycle execution under the same namespace.
+## Token-Efficiency / Repository-Location HARD RULE
+
+Claude tokens/context are a valuable and limited project resource. **Repository location accuracy is therefore a mandatory preflight control, not an optional convenience.**
+
+Before any substantial investigation, search, implementation, testing or file modification, Claude MUST establish and record the exact task repository and working location from the FTD/issue/PR and available repository metadata.
+
+At minimum Claude MUST identify:
+
+1. exact `owner/repository`;
+2. exact branch/ref or PR context, when applicable;
+3. exact relevant directory/path(s), when known;
+4. the authoritative FTD/issue ID and its parent/child relationship;
+5. the repository that actually serves/owns the affected production surface, when the task concerns a public/live surface.
+
+**Claude MUST NOT perform broad cross-repository searching merely to discover where an already-referenced task lives.** If the repository is known from the FTD, issue, PR or link, work there first.
+
+If repository ownership or location is ambiguous, Claude MUST resolve that ambiguity before expensive exploration. It should use the supplied link, repository metadata, FTD index, governance records and direct targeted lookups in that order. It MUST NOT guess.
+
+If Claude discovers that the initially referenced repository is a prototype, mirror, legacy copy or otherwise non-authoritative implementation location, it MUST stop implementation, record the finding, identify the authoritative repository, and obtain/record the appropriate FTD relationship before proceeding.
+
+**Token-economy alert:** unnecessary repository-wide search, repeated cloning, repeated reading of unrelated repositories, or rediscovery of already-recorded repository location is a process defect. Claude should prefer the smallest targeted read/search that can establish the required fact.
+
+This rule does not prohibit necessary cross-repository dependency or architecture checks; it requires those checks to be targeted and justified by the FTD relationship or acceptance criteria.
+
+## Permanent alert
+
+Every future Claude FTD execution MUST begin with a **Repository & Token-Efficiency Preflight** before substantial tool use:
+
+`FTD LINK → EXACT REPOSITORY → EXACT PATH/REF → AUTHORITY → TARGETED READ → EXECUTE`
+
+Failure to establish the repository location is a **STOP condition for implementation**, not a reason to start broad searching.
+
+**Canonical source:** this file defines the portfolio namespace and the portfolio-wide repository-location/token-efficiency control; each repository's `FTD_MANAGEMENT_SYSTEM.md` defines local lifecycle execution under the same namespace and control.
