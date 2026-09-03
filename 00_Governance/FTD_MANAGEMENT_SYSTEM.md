@@ -1,68 +1,48 @@
 # FTD MANAGEMENT SYSTEM
 
 **Status:** PERMANENT / ACTIVE  
-**Scope:** This repository  
-**Authority:** Repository-local Constitution, governing instructions, Founder decisions and approved registers remain controlling.
+**System:** FTD-MS v2.0  
+**Index:** `00_Governance/FTD_INDEX.md`  
+**Template:** `00_Governance/FTD_TEMPLATE.md`
 
-## 1. Purpose
+Repository-local Constitution, instructions, Founder decisions, approved registers, security rules and domain controls remain controlling.
 
-This document establishes the permanent repository-level management lifecycle for FTDs. It is a governance control and durable institutional record. It does not replace or override any repository-specific Constitution, Master Instruction, approved decision, architecture, specification, security rule, or legal/business constraint.
+## Fast path
+When substantial work is requested, **create/register the FTD immediately**. “FTD बना दो” means: allocate the next immutable ID, timestamp it in IST and UTC, create the record from the template, classify it, record authority/dependencies, add it to the index, link related FTDs, then proceed with authorized execution.
 
-## 2. Standing rule
+## ID standard
+`FTD-YYYYMMDD-HHMM-SSS`  
+Example: `FTD-20260903-1105-001`
 
-Before substantial work is started, the applicable FTD must be identified and its current repository record inspected. A substantial change must not be silently performed as an unregistered task.
+`YYYYMMDD` = date; `HHMM` = 24-hour IST creation time; `SSS` = repository-local sequence for that date/time block. Record ISO-8601 UTC timestamp too. Never reuse an ID.
 
-Trivial maintenance that cannot materially affect governance, architecture, security, data, public behaviour, production state, or an approved deliverable may be performed without creating a new FTD, unless repository-local rules require one.
+## Lifecycle
+`IDENTIFY → REGISTER → CLASSIFY → AUTHORITY → DEPENDENCIES/HOLDS → APPROVE → IMPLEMENT → VERIFY/QC → CLOSE → OUTCOME`
 
-## 3. FTD lifecycle
+Primary statuses: `DRAFT`, `REGISTERED`, `APPROVED`, `IN_PROGRESS`, `BLOCKED`, `VERIFICATION`, `CLOSED`. Terminal exceptions: `CANCELLED`, `SUPERSEDED`.
 
-Every applicable FTD follows this controlled lifecycle:
+Priority: `P0` critical, `P1` high, `P2` normal, `P3` low. Classes: `GOV`, `SEC`, `ARCH`, `FEAT`, `FIX`, `OPS`, `DOC`, `QC`, `RESEARCH`.
 
-`IDENTIFY → REGISTER → CLASSIFY → CHECK AUTHORITY → CHECK DEPENDENCIES/HOLDS → APPROVE WHEN REQUIRED → IMPLEMENT → VERIFY/QC → CLOSE → RECORD OUTCOME`
+## Required record
+ID/title; IST+UTC timestamps; objective/success condition; scope/non-scope; repository/components; source/requester; class/priority; authority/approval; dependencies/holds; parent/child/related/conflict/supersession links; implementation PR/commit/release; verification/QC evidence; risks/unresolved issues; owner; status; closure timestamp/outcome.
 
-An FTD may remain OPEN, BLOCKED, HELD, or PENDING when its conditions are not satisfied. Status must reflect evidence; it must never be inferred from activity alone.
+## Typed relationships
+Use explicit links: `PARENT`, `CHILD`, `DEPENDS-ON`, `BLOCKED-BY`, `BLOCKS`, `RELATED`, `IMPLEMENTS`, `VERIFIED-BY`, `SUPERSEDES`, `SUPERSEDED-BY`, `CONFLICTS-WITH`, `DUPLICATES`.
 
-## 4. Minimum FTD record
+Use dependency relations for execution analysis; do not hide dependencies in prose.
 
-Each FTD record should contain, as applicable:
+## Rapid index
+`FTD_INDEX.md` is the first operational lookup surface. It records every active/historical FTD with ID, timestamp, status, priority, class, objective, relationships, dependency/blocker chain, implementation, verification and last update. The full FTD record remains authoritative for detail/evidence.
 
-- FTD ID and title;
-- objective and scope;
-- repository and affected component(s);
-- source/request;
-- classification and priority;
-- dependencies, blockers and holds;
-- authority/approval required and decision record;
-- planned implementation;
-- implementation commit/PR/reference;
-- tests, verification and QC evidence;
-- unresolved issues and risks;
-- final status;
-- closure date and outcome;
-- links to related records.
+The index must make these questions answerable quickly: active work; P0/P1; blocked chains; dependency chains; parent/child trees; conflicts; supersession; unverified work; implementation evidence.
 
-## 5. Authority and conflict rule
+## Authority / conflict
+An FTD never bypasses higher authority. On conflict: `IDENTIFY → EXPLAIN → STOP AFFECTED ACTION → RECORD → SEEK AUTHORITY`. Recency alone creates no authority.
 
-An FTD is not permission to bypass higher authority. Where an FTD conflicts with the repository Constitution, Master Instruction, approved Founder decision, security control, legal/compliance constraint, or active hold:
+## Closure
+`CLOSED` requires appropriate verification/QC evidence or an authorized recorded reason verification is not required. Preserve history; mark obsolete work `SUPERSEDED` or `CANCELLED` rather than deleting it.
 
-`IDENTIFY CONFLICT → EXPLAIN → STOP AFFECTED ACTION → RECORD → SEEK REQUIRED AUTHORITY`
+## Isolation
+This generic layer does not copy repository-specific legal, professional, client/matter, data, architecture, security, pricing or other domain rules between repositories.
 
-Recency alone does not create authority.
-
-## 6. Change control
-
-A governance change must be classified as an amendment, addition, clarification, temporary decision, or implementation change and recorded through the repository's approved governance process. Code/content changes must not be used to silently create governance authority.
-
-## 7. Evidence and completion
-
-No FTD is considered complete merely because code or documents were changed. Completion requires appropriate verification/QC evidence and a durable record of what changed, what did not change, tests/checks performed, findings, unresolved matters, and the resulting status.
-
-## 8. Repository isolation
-
-This common FTD system is intentionally generic. Repository-specific identities, professional rules, client/matter rules, data restrictions, architectures, credentials, pricing, legal positions and other domain controls must remain local to the repository in which they are authoritative. Nothing in this file authorizes copying such rules between repositories.
-
-## 9. Permanent operation
-
-This file is a standing control. Future FTD work in this repository must use this lifecycle unless a higher-priority repository-local rule expressly requires a different process.
-
-**Canonical principle:** The repository is the durable institutional memory; the FTD record is the durable task-level record; execution follows authority and evidence, not conversation memory or assumption.
+**Canonical principle:** repository = durable institutional memory; FTD = durable task record; index = rapid navigation/relationship surface; execution = authority + evidence.
