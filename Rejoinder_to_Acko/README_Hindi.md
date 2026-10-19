@@ -53,7 +53,7 @@
 ## ⚠️ 12.01.2027 से पहले ये काम बाकी हैं
 
 1. **Annexure R-1 (India Post tracking):** `POSTAL RECEIPT/PostalReceipt_Consumer_Forrum_2026_08_21_...pdf` का प्रिंट लगाएँ। साथ में Speed Post की **original रसीद** भी रखें।
-2. **पक्का करें कि उस Speed Post में आयोग का notice और complaint की copy दोनों थे।** Hilli वाले फ़ैसले में 45 दिन, complaint की copy मिलने से गिने जाते हैं। अगर लिफ़ाफ़े में सिर्फ़ notice था, तो मुझे बताएँ, para 3 बदलना होगा।
+2. ✅ **Speed Post में क्या था (पक्का हो गया):** एक ही लिफ़ाफ़े में आयोग का दिया notice और complaint की पूरी copy (paper-book पेज 10–25) थे। Para 3 में यह लिख दिया है। सुनवाई में पूछा जाए तो यही बताएँ।
 3. **Order-sheet देखें कि WS 12.10.2026 को ही file हुआ।** यह भी देखें कि आयोग ने उस दिन WS के बारे में कोई order (जैसे "taken on record") तो नहीं दिया। अगर दिया हो, तो उसकी copy मुझे भेजें।
 4. **Annexure R-2 (premium payments):** अभी जो screenshot मिला है (`Installment_Paid_Till_1_Oct_2026/`), उसमें **30 Aug 2025** से **27 Sep 2026** तक की payments हैं। उसमें **Nov 2024 से Jul 2025** वाला हिस्सा नहीं है, और **Sep–Oct 2025** की किस्तें भी नहीं दिख रहीं। ACKO app में ऊपर scroll करके **पूरी payment history** (Nov 2024 से आज तक) के screenshots लें और R-2 के रूप में लगाएँ। ACKO के "12 out of 13" वाले दावे का जवाब इसी से होगा।
 5. **Citations:** Hilli Multipurpose, Galada Power, Saurashtra Chemicals, Chandumull Jain, Badat & Co. एक बार Indian Kanoon पर मिला लें। धारा 38(3)(a) और 38(3)(b)(ii) भी Act में देख लें।
