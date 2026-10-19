@@ -1,0 +1,67 @@
+Let me look at pages 79–85 of your paper-book to see exactly which bills are there.
+
+The bills on pages 79–85 add up exactly to ₹37,358, and ACKO's ₹31,846 is exactly four of them. Updating the rejoinder and the script with the full bill-wise breakdown.
+
+Both documents rebuilt and validated. Now updating the checklist in the README.
+
+Rejoinder और सुनवाई स्क्रिप्ट दोनों में bills का हिसाब update कर दिया है। पेज 79–85 के सारे 9 bills जोड़ने पर ठीक ₹37,358 आता है।
+
+| Bill | पेज | रकम |
+|---|---|---|
+| Hospital का IPD Final Bill (20–21.06.2025) | 84 | ₹25,000 |
+| Operation से पहले की जाँचें (19.06.2025) | 83 | ₹4,050 |
+| HOD Diagnostics की जाँचें | 82 | ₹1,796 |
+| Consultation (19.06.2025) | 85 | ₹1,000 |
+| **इन 4 bills का जोड़ = ACKO का आँकड़ा** | | **₹31,846** |
+| Biopsy (20.06.2025) | 81 | ₹1,350 |
+| दवाइयाँ (14.06, 21.06, 22.06.2025) | 85, 82, 80 | ₹347 + ₹1,565 + ₹1,250 |
+| Operation के बाद का follow-up (08.07.2025) | 79 | ₹1,000 |
+| **कुल** | | **₹37,358** |
+
+**Rejoinder के para 15 में** अब हर bill पेज नंबर के साथ लिखा है। साथ में यह भी लिखा है कि ACKO ने सिर्फ़ पहले 4 bills गिने। बाक़ी ₹5,512 उसी operation की biopsy, दवाइयों और follow-up का ख़र्च है।
+
+**सुनवाई स्क्रिप्ट में** यही हिसाब तीन जगह जोड़ा है: दलील 6(ग) में, सवाल-जवाब में, और चीट-शीट में (पेज 79–85)।
+
+---
+
+## Final करने से पहले मुझे ये बातें बताइए
+
+**ज़रूरी (इनसे draft बदल सकता है):**
+1. **अगली तारीख़ और उसका काम:** अगली सुनवाई कब है? उस दिन rejoinder file करना है, या बहस (final arguments) होनी है?
+Answer : 12/Jan/2027, Rejoinder File karna hai
+
+2. **ACKO को notice कब मिला और WS कब file हुआ?** यह order-sheet में लिखा होगा। अगर 45 दिन से ज़्यादा का फ़र्क है, तो rejoinder में "WS देर से आया, इसे record पर न लें" वाला para जोड़ दूँगा। यह बहुत मज़बूत point बन सकता है।
+Answer : 
+a)
+**ACKO को notice कब मिला 
+Acko ko notice by post mila : 10/Aug/2026 Postal receipt attached at following github location
+https://github.com/SirVikas/vikas/tree/main/POSTAL%20RECEIPT
+b)
+WS कब file हुआ?
+12/10/2026
+
+
+3. **WS के साथ कोई और कागज़ भी मिले थे?** जैसे affidavit, authority letter, policy wording या ACKO के documents। मुझे सिर्फ़ 11 पेज की फ़ोटो मिली हैं। ACKO ने कोई medical opinion लगाई हो, तो उसका जवाब भी देना होगा।
+Answer:-
+Only WS received from ACKO, nothing else.
+
+
+
+4. **"Instalments Paid: 12 out of 13" के बारे में:** क्या जून 2025 तक की सारी किस्तें कटी थीं? मुझे "Monthly auto-payment failed" वाला एक email दिखा था। वह कब का है, और बाद में भुगतान हुआ या नहीं?
+
+**पक्का करने के लिए:**
+Acko ki aaj tak ki sabhi payments chali gai hain koi bhi pending nahin hai
+ek saal mein 12 installments hoti hai, abhi tak ki sabhi installment paid hain
+https://github.com/SirVikas/vikas/tree/main/Installment_Paid_Till_19_Oct_2026
+
+
+5. **HOD Diagnostics का ₹1,796 वाला bill किस तारीख़ का है?** पेज 82 पर तारीख़ साफ़ नहीं पढ़ पा रहा। अगर तारीख़ बताएँ तो rejoinder में जोड़ दूँ।
+Answer
+15-June-2025
+
+
+6. **डॉक्टर का certificate (12.07.2026):** क्या उसका original आपके पास है? सुनवाई में वह साथ ले जाना होगा।
+7. **जज साहब पुरुष हैं या महिला, और सुनवाई किस भाषा में होती है (हिंदी या English)?** उसी हिसाब से स्क्रिप्ट में "Sir/Ma'am" और भाषा ठीक कर दूँगा।
+8. **क्या आप ख़ुद बहस करेंगे (Party-in-Person), या कोई वकील साथ रहेगा?**
+
+इन सवालों के जवाब मिलते ही दोनों documents final कर दूँगा। सब कुछ branch `claude/nifty-bohr-4x60g7` पर push हो गया है। अगर `main` में चाहिए तो बताइए, PR बना दूँगा।
