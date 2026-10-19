@@ -1,60 +1,66 @@
 # ACKO के Written Statement का जवाब (Rejoinder) — CC/417/2026
 
-**फ़ाइलें:**
-- `Rejoinder_Vikas_Gandhi_vs_ACKO_CC417_2026.docx` — Word (बदलाव करने के लिए)
-- `Rejoinder_Vikas_Gandhi_vs_ACKO_CC417_2026.pdf` — print के लिए
-- ACKO का WS (फ़ोटो): `Reply_from_Acko/` (11 पेज)
+**अगली तारीख़: 12.01.2027 — Rejoinder file करना है।**
 
-Rejoinder में 48 paras हैं, और उसके साथ affidavit भी है।
+**फ़ाइलें:**
+- `Rejoinder_Vikas_Gandhi_vs_ACKO_CC417_2026.docx` / `.pdf`: Rejoinder (49 paras), Affidavit, List of Documents
+- `Court_Hearing_Script_Hindi_Vikas_vs_ACKO.docx` / `.pdf`: अदालत में बोलने की स्क्रिप्ट
+- ACKO का WS (फ़ोटो): `Reply_from_Acko/` (11 पेज)
+- सवालों के आपके जवाब: `Questionaries/Questionaries_19_Oct_2026.txt`
 
 ---
 
-## ACKO ने WS में खुद क्या मान लिया है (हमारी सबसे बड़ी ताक़त)
+## सबसे बड़ा नया point: ACKO का WS 63 दिन देर से (Rejoinder para 3)
+
+| | तारीख़ | सबूत |
+|---|---|---|
+| Speed Post booked (EU031901035IN) | 05.08.2026 | India Post tracking |
+| **ACKO को delivered** (HSR Layout, Bengaluru) | **10.08.2026** | India Post tracking → **Annexure R-1** |
+| ACKO ने WS file किया | **12.10.2026** | (आपकी जानकारी) |
+| **फ़र्क** | **63 दिन** (कानूनी सीमा 45 दिन) | |
+
+कानून: CPA 2019 की धारा 38(3)(a) + *New India Assurance v. Hilli Multipurpose Cold Storage*, (2020) 5 SCC 757 (Constitution Bench)। 45 दिन के बाद आयोग समय नहीं बढ़ा सकता।
+
+## ACKO ने WS में खुद क्या माना
 
 | ACKO WS para | क्या माना | Rejoinder para |
 |---|---|---|
-| 12, 29 | Clause में exception **"unless necessitated by malignancy"** है | 3(iv) |
-| 13, 39 | Ombudsman का finding: surgery **medically necessary** थी, Permanent Exclusion 4.2.3 **लागू नहीं** | 3(v) |
-| **47(iii)** | 25.06.2025 का rejection email **"medical या histopathological opinion नहीं था"**, यानी claim बिना डॉक्टरी राय के reject किया | 3(vi), 33, 36 |
-| 28, 30 | डॉक्टर का certificate और EAU literature: सिर्फ़ "matter of record" कहा, **खंडन नहीं किया**, कोई उल्टी medical opinion नहीं दी | 3(vii), 29, 31 |
-| 31 | Proposal form के जवाब सही हैं, कोई non-disclosure नहीं | 3(iii), 13 |
-| 9, 23 | Claim कम से कम ₹31,846 मान लिया | 3(viii), 15 |
+| 12, 29 | Clause में exception **"unless necessitated by malignancy"** है | 4(iv) |
+| 13, 39 | Ombudsman: surgery **medically necessary**, Permanent Exclusion 4.2.3 **लागू नहीं** | 4(v) |
+| **47(iii)** | 25.06.2025 का email **"medical या histopathological opinion नहीं था"** | 4(vi), 34, 37 |
+| 28, 30 | डॉक्टर का certificate और EAU literature का **खंडन नहीं**, कोई उल्टी medical opinion नहीं | 4(vii), 30, 32 |
+| 31 | Proposal form के जवाब सही, कोई non-disclosure नहीं | 4(iii), 14 |
+| 9, 23 | Claim कम से कम ₹31,846 मान लिया | 4(viii), 16 |
 
-## ACKO के मुख्य तर्क और हमारा जवाब
+## Bills — कुल ₹37,358 (paper-book पेज 79–85), Rejoinder para 16
 
-1. **"Biopsy में malignancy नहीं मिली"**: Surgery की ज़रूरत surgery से *पहले* की हालत से तय होती है। 3.5 cm का "cauliflower like lesion" बिना काटे और biopsy किए cancer-free नहीं कहा जा सकता। BXO pre-malignant है। समय पर surgery हुई, इसलिए cancer बनने से पहले ही हट गया। (paras 10–11)
-2. **"Uberrima fidei / false declaration"**: ACKO ने कभी non-disclosure का आरोप नहीं लगाया। Repudiation letter से बाहर नए ground नहीं ला सकते (*Galada Power* 2016, *Saurashtra Chemicals* 2019)। (paras 13, 17)
-3. **"Enhanced sum insured renewal पर लागू नहीं"**: हमने enhanced SI माँगा ही नहीं। Claim ₹37,358 मूल policy के ₹10 लाख में है। (para 34)
-4. **"Ombudsman ने complaint खारिज की"**: Ombudsman ने सिर्फ़ इसलिए खारिज की कि "post-operative medical paper" नहीं था। अब डॉक्टर का certificate (C-12) record पर है। Award आप पर binding नहीं है। (para 18)
-5. **WS की ग़लतियाँ**: ACKO को "life insurance" company बताया है, "Opposite Parties" (plural) लिखा है, signatory का नाम नहीं है, और verification की तारीख़ खाली है। (paras 5–6)
+| Bill | पेज | रकम |
+|---|---|---|
+| IPD Final Bill, 20–21.06.2025 | 84 | ₹25,000 |
+| Operation से पहले की जाँचें, 19.06.2025 | 83 | ₹4,050 |
+| HOD Diagnostics की जाँचें, 15.06.2025 | 82 | ₹1,796 |
+| Consultation, 19.06.2025 | 85 | ₹1,000 |
+| **ACKO का आँकड़ा (ऊपर के 4 bills)** | | **₹31,846** |
+| Biopsy, 20.06.2025 | 81 | ₹1,350 |
+| दवाइयाँ, Jaggi Medicos, 14.06.2025 | 85 | ₹347 |
+| दवाइयाँ, Jaggi Medicos, 21.06.2025 | 82 | ₹1,565 |
+| दवाइयाँ, RS Maitri Pharmacy, 22.06.2025 | 80 | ₹1,250 |
+| Follow-up consultation, 08.07.2025 | 79 | ₹1,000 |
+| **कुल** | | **₹37,358** |
 
 ---
 
-## ⚠️ File करने से पहले ये ज़रूर जाँच लें
+## ⚠️ 12.01.2027 से पहले ये काम बाकी हैं
 
-1. ✅ **₹31,846 बनाम ₹37,358 (हल हो गया)**: सारे bills paper-book के **पेज 79–85** (Annexure C-5) पर लगे हैं। Rejoinder के para 15 में हर bill पेज नंबर के साथ लिखा है:
-
-   | Bill | पेज | रकम |
-   |---|---|---|
-   | IPD Final Bill, 20–21.06.2025 | 84 | ₹25,000 |
-   | Operation से पहले की जाँचें, 19.06.2025 | 83 | ₹4,050 |
-   | HOD Diagnostics की जाँचें | 82 | ₹1,796 |
-   | Consultation, 19.06.2025 | 85 | ₹1,000 |
-   | **ACKO का आँकड़ा (ऊपर के 4 bills)** | | **₹31,846** |
-   | Biopsy, 20.06.2025 | 81 | ₹1,350 |
-   | दवाइयाँ, Jaggi Medicos, 14.06.2025 | 85 | ₹347 |
-   | दवाइयाँ, Jaggi Medicos, 21.06.2025 | 82 | ₹1,565 |
-   | दवाइयाँ, RS Maitri Pharmacy, 22.06.2025 | 80 | ₹1,250 |
-   | Follow-up consultation, 08.07.2025 | 79 | ₹1,000 |
-   | **कुल** | | **₹37,358** |
-2. **"Instalments Paid 12 out of 13"** (WS para 8): Para 14 में लिखा है कि June 2025 तक की सारी किस्तें भरी गई थीं। अपनी payment history से यह पक्का कर लें।
-3. **WS देर से तो नहीं आया?** Consumer Protection Act की धारा 38(2)(a) के अनुसार WS notice मिलने के **30 दिन (अधिकतम 45 दिन)** में आना ज़रूरी है (*New India Assurance v. Hilli Multipurpose Cold Storage*, (2020) 5 SCC 757)। Commission की order-sheet से देखें कि ACKO को notice कब मिला और WS कब file हुआ। अगर 45 दिन से ज़्यादा हो गए हों, तो para 4 के बाद यह para जोड़ें:
-   > *That the Written Statement has been filed beyond the period of 45 days from the date of service of notice on the Opposite Party, and is liable to be ignored in view of Section 38(2)(a) of the Consumer Protection Act, 2019 and the judgment of the Hon'ble Supreme Court in New India Assurance Co. Ltd. v. Hilli Multipurpose Cold Storage Pvt. Ltd., (2020) 5 SCC 757.*
-4. **Citations**: सभी केस (Galada Power, Saurashtra Chemicals, Chandumull Jain, Badat & Co.) प्रसिद्ध Supreme Court फ़ैसले हैं। फिर भी file करने से पहले एक बार किसी वकील या SCC/Indian Kanoon पर citation मिला लें।
+1. **Annexure R-1 (India Post tracking):** `POSTAL RECEIPT/PostalReceipt_Consumer_Forrum_2026_08_21_...pdf` का प्रिंट लगाएँ। साथ में Speed Post की **original रसीद** भी रखें।
+2. **पक्का करें कि उस Speed Post में आयोग का notice और complaint की copy दोनों थे।** Hilli वाले फ़ैसले में 45 दिन, complaint की copy मिलने से गिने जाते हैं। अगर लिफ़ाफ़े में सिर्फ़ notice था, तो मुझे बताएँ, para 3 बदलना होगा।
+3. **Order-sheet देखें कि WS 12.10.2026 को ही file हुआ।** यह भी देखें कि आयोग ने उस दिन WS के बारे में कोई order (जैसे "taken on record") तो नहीं दिया। अगर दिया हो, तो उसकी copy मुझे भेजें।
+4. **Annexure R-2 (premium payments):** अभी जो screenshot मिला है (`Installment_Paid_Till_1_Oct_2026/`), उसमें **30 Aug 2025** से **27 Sep 2026** तक की payments हैं। उसमें **Nov 2024 से Jul 2025** वाला हिस्सा नहीं है, और **Sep–Oct 2025** की किस्तें भी नहीं दिख रहीं। ACKO app में ऊपर scroll करके **पूरी payment history** (Nov 2024 से आज तक) के screenshots लें और R-2 के रूप में लगाएँ। ACKO के "12 out of 13" वाले दावे का जवाब इसी से होगा।
+5. **Citations:** Hilli Multipurpose, Galada Power, Saurashtra Chemicals, Chandumull Jain, Badat & Co. एक बार Indian Kanoon पर मिला लें। धारा 38(3)(a) और 38(3)(b)(ii) भी Act में देख लें।
 
 ## File करने का तरीका
 
-1. Date और "Verified at Ghaziabad on this ___ day" भरें, और हर पेज पर sign करें।
-2. **Affidavit** (आख़िरी पेज) को Oath Commissioner/Notary से attest करवाएँ।
-3. 3 sets बनाएँ: Commission के लिए, ACKO के वकील के लिए (Adv. Abhishek Bhatnagar / Adv. Apoorva Hajela), और अपने पास।
-4. अगली तारीख़ पर (या उससे पहले) Commission में file करें और ACKO के वकील को copy दें। e-Jagriti पर भी upload कर सकते हैं।
+1. Rejoinder के आख़िर में Date और "Verified at Ghaziabad on this ___ day" भरें, और हर पेज पर sign करें।
+2. **Affidavit** Oath Commissioner/Notary से attest करवाएँ।
+3. Annexure R-1 और R-2 लगाकर 3 sets बनाएँ: Commission के लिए, ACKO के वकील (Adv. Abhishek Bhatnagar / Adv. Apoorva Hajela) के लिए, और अपने लिए।
+4. 12.01.2027 को file करें और ACKO के वकील को copy दें। उनसे copy मिलने की receipt ले लें।
