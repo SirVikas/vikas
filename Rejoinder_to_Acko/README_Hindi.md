@@ -32,7 +32,21 @@ Rejoinder में 48 paras हैं, और उसके साथ affidavit 
 
 ## ⚠️ File करने से पहले ये ज़रूर जाँच लें
 
-1. **₹31,846 बनाम ₹37,358**: आपकी receipts से हिसाब: ₹25,000 + 4,050 + 1,796 + 1,000 = **₹31,846** (ACKO का आँकड़ा)। बाक़ी ₹1,565 + 1,350 + 1,250 + 1,000 + 347 = **₹5,512**, यानी कुल ₹37,358। Para 15 में लिखा है कि ₹5,512 hospitalisation से पहले/बाद की दवाइयों, pharmacy और consultation के bills हैं। अगर इनमें से कोई bill किसी और चीज़ का है, तो para 15 के शब्द ठीक कर लें।
+1. ✅ **₹31,846 बनाम ₹37,358 (हल हो गया)**: सारे bills paper-book के **पेज 79–85** (Annexure C-5) पर लगे हैं। Rejoinder के para 15 में हर bill पेज नंबर के साथ लिखा है:
+
+   | Bill | पेज | रकम |
+   |---|---|---|
+   | IPD Final Bill, 20–21.06.2025 | 84 | ₹25,000 |
+   | Operation से पहले की जाँचें, 19.06.2025 | 83 | ₹4,050 |
+   | HOD Diagnostics की जाँचें | 82 | ₹1,796 |
+   | Consultation, 19.06.2025 | 85 | ₹1,000 |
+   | **ACKO का आँकड़ा (ऊपर के 4 bills)** | | **₹31,846** |
+   | Biopsy, 20.06.2025 | 81 | ₹1,350 |
+   | दवाइयाँ, Jaggi Medicos, 14.06.2025 | 85 | ₹347 |
+   | दवाइयाँ, Jaggi Medicos, 21.06.2025 | 82 | ₹1,565 |
+   | दवाइयाँ, RS Maitri Pharmacy, 22.06.2025 | 80 | ₹1,250 |
+   | Follow-up consultation, 08.07.2025 | 79 | ₹1,000 |
+   | **कुल** | | **₹37,358** |
 2. **"Instalments Paid 12 out of 13"** (WS para 8): Para 14 में लिखा है कि June 2025 तक की सारी किस्तें भरी गई थीं। अपनी payment history से यह पक्का कर लें।
 3. **WS देर से तो नहीं आया?** Consumer Protection Act की धारा 38(2)(a) के अनुसार WS notice मिलने के **30 दिन (अधिकतम 45 दिन)** में आना ज़रूरी है (*New India Assurance v. Hilli Multipurpose Cold Storage*, (2020) 5 SCC 757)। Commission की order-sheet से देखें कि ACKO को notice कब मिला और WS कब file हुआ। अगर 45 दिन से ज़्यादा हो गए हों, तो para 4 के बाद यह para जोड़ें:
    > *That the Written Statement has been filed beyond the period of 45 days from the date of service of notice on the Opposite Party, and is liable to be ignored in view of Section 38(2)(a) of the Consumer Protection Act, 2019 and the judgment of the Hon'ble Supreme Court in New India Assurance Co. Ltd. v. Hilli Multipurpose Cold Storage Pvt. Ltd., (2020) 5 SCC 757.*
